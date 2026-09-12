@@ -1,0 +1,882 @@
+{
+  "1": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "2": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "3": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "4": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "5": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "6": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "7": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "8": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "9": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "10": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "11": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "12": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "13": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "14": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "15": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "16": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "17": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "18": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "19": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "20": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "21": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "22": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "23": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "24": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "25": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "26": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "27": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "28": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Escalate"
+  },
+  "29": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "30": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "31": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "32": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "33": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "34": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "35": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "36": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "37": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "38": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "39": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "40": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "41": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "42": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "43": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "44": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "45": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "46": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "47": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "48": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "49": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "50": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "51": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "52": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "53": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "54": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "55": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "56": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "57": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "58": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "59": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "60": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "61": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "62": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "63": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "64": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "65": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "66": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "67": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "68": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "69": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "70": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "71": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "72": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "73": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Escalate"
+  },
+  "74": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "75": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "76": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "77": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "78": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "79": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "80": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "81": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "82": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "83": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "84": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "85": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "86": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "87": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "88": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "89": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "90": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "91": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "92": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "93": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "94": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "95": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "96": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "97": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "98": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "99": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "100": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "101": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "102": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "103": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "104": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "105": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "106": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "107": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "108": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "109": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "110": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "111": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "112": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "113": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "114": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "115": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "116": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "117": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "118": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "119": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "120": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "121": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "122": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "123": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "124": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "125": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "126": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "127": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "128": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "129": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "130": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "131": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "132": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "133": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "134": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "135": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "136": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "137": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "138": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "139": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "140": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "141": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "142": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "143": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "144": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "145": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "146": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "147": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "148": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "149": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "150": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "151": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "152": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "153": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "154": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "155": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "156": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "157": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "158": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "159": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "160": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "161": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "162": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "163": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "164": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "165": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "166": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "167": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "168": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "169": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "170": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "171": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "172": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "173": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "174": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "175": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "176": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "177": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "178": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "179": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "180": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "181": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "182": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "183": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "184": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "185": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "186": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "187": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "188": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "189": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "190": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "191": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "192": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "193": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "194": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "195": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "196": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "197": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "198": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "199": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Escalate"
+  },
+  "200": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "201": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "202": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  },
+  "203": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "204": {
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle"
+  },
+  "205": {
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle"
+  },
+  "206": {
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle"
+  },
+  "207": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "208": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "209": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "210": {
+    "intent": "Account Access Issue",
+    "escalate": "Escalate"
+  },
+  "211": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "212": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "213": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "214": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "215": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "216": {
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle"
+  },
+  "217": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate"
+  },
+  "218": {
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle"
+  },
+  "219": {
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle"
+  },
+  "220": {
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle"
+  }
+}

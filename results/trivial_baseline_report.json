@@ -1,0 +1,12 @@
+{
+  "system": "trivial_baseline",
+  "n": 220,
+  "intent_accuracy": 0.3773,
+  "intent_macro_f1": 0.3373,
+  "intent_macro_precision": 0.6363,
+  "intent_macro_recall": 0.3833,
+  "escalation_accuracy": 0.8136,
+  "escalation_f1_for_escalate_class": 0.0,
+  "escalation_precision_for_escalate_class": 0.0,
+  "escalation_recall_for_escalate_class": 0.0
+}

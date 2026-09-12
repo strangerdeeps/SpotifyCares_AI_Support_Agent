@@ -1,0 +1,612 @@
+[
+  {
+    "id": 164,
+    "customer_message": "@116130 how quickly do you reply to privet messages?",
+    "reply": "Hi there! We aim to respond to your DMs as quickly as possible. Please send over your account email address, and we'll get right on it! 🎧",
+    "grounding_used": [
+      {
+        "past_message": "@116130 sent u 3 messages to sort out my premium account , no reply ? Pls advise urgently",
+        "past_reply": "@574390 Hi Rodger, help's here. Can you DM us your account's email address? We'll take a look backstage and see what we can suggest /NY https://t.co/ldFdZRiNAt",
+        "similarity": 0.4022
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply is concise, friendly, and correctly guides the user to DM their email for account-specific assistance, aligning perfectly with the provided historical example."
+  },
+  {
+    "id": 30,
+    "customer_message": "@SpotifyCares I opened spotify on my Android and It looks like this: Never been zoomed in so much before https://t.co/fzRpeHuQUU",
+    "reply": "@SpotifyCares Sorry to hear that. Try restarting the app or clearing its cache. If the zoomed view persists, let us know the device model and OS version so we can investigate further.",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares just opened spotify android app, my library of 1000+ saved songs has dissappeared! Any solutions? Not a happy premium customer",
+        "past_reply": "@576953 Hey. Sorry to hear that. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with it /QI",
+        "similarity": 0.3981
+      }
+    ],
+    "groundedness": 3,
+    "correctness": 4,
+    "tone_fit": 5,
+    "actionability": 4,
+    "overall_comment": "The reply is tonally appropriate and offers standard troubleshooting, but it is only moderately grounded since the provided example addresses a different issue (missing downloads) rather than UI scaling problems."
+  },
+  {
+    "id": 7,
+    "customer_message": "@spotifycares I have been charged my student discount amount but I still don't have premium?",
+    "reply": "Hey @spotifycares, sorry about the mix‑up! Please DM us your username and email so we can verify your student discount and activate Premium. We’ll sort this out ASAP!",
+    "grounding_used": [
+      {
+        "past_message": "@117153 hello, i have some problem, i buy premium with student discount, but i don't have premium in my account",
+        "past_reply": "@489787 Hey there! Don't worry, help's here. Can you DM us your account's email address or username? We'll take a look backstage /MT https://t.co/ldFdZRiNAt",
+        "similarity": 0.5002
+      },
+      {
+        "past_message": "hey @115888 what happened to my student discount? don't do me like this",
+        "past_reply": "@654601 Hey there, help's here! Could you shoot us a DM with your account's username and email address? We'll take a look backstage /VK https://t.co/ldFdZRiNAt",
+        "similarity": 0.4627
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately mirrors historical support patterns by requesting private account details to resolve billing discrepancies while maintaining a helpful and concise tone."
+  },
+  {
+    "id": 190,
+    "customer_message": "@SpotifyCares I cancelled my subscription as it wouldn’t work , when I emailed for help you replied in Spanish i am in UK.... you are still taking my money without permission !! #nothappy",
+    "reply": "@SpotifyCares Hi there! We're sorry to hear this. Please DM us your account email or username so we can investigate the charge and language issue. /NQ https://t.co/ldFdZRiNAt",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares I cancelled my subscription but was still charged 🙁",
+        "past_reply": "@524269 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt",
+        "similarity": 0.3975
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately mirrors the historical support pattern for billing inquiries, appropriately requesting private details to resolve the specific issues raised while maintaining a professional and concise tone."
+  },
+  {
+    "id": 70,
+    "customer_message": "@SpotifyCares you guys overcharged me twice for the student discount this month!",
+    "reply": "Hi there! Sorry to hear about the double charge. We've sent you a DM to help resolve this and look into your account details. /FR",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares can you guys hrlp me about something ?",
+        "past_reply": "@709538 Hi there! We've just sent a DM your way. Let's carry on chatting there /FR",
+        "similarity": 0.3809
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply is concise, empathetic, and correctly escalates a billing issue to direct messages for privacy, aligning perfectly with standard support protocols and the provided example."
+  },
+  {
+    "id": 62,
+    "customer_message": "@SpotifyCares I'm currently having a problem with paysafecards and activating premium. I dmed you a few minutes ago, and I really need help",
+    "reply": "Hi there! Thanks for reaching out. We've seen your DM and are looking into your Paysafecard issue with Premium activation right now. Please keep an eye on your messages for our response. /DB",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares I need help I dmed you guys",
+        "past_reply": "@361093 Hey there! We've just replied to your DM. Check it out /DB",
+        "similarity": 0.3487
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately acknowledges the specific issue and DM reference while maintaining the correct casual-professional tone and signature style of the historical examples."
+  },
+  {
+    "id": 57,
+    "customer_message": "why is acid rap not on @115888? :( @167274",
+    "reply": "Hi there! We’d love to have all of his stuff available, but we have some info about content here: https://t.co/0i8Gpi4TeA /ME",
+    "grounding_used": [
+      {
+        "past_message": "@115888 @167274 Put Acid Rap on Spotify please",
+        "past_reply": "@541784 Hi Conor. We’d love to have all of his stuff available, but we have some info about content here: https://t.co/0i8Gpi4TeA /ME",
+        "similarity": 0.8799
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately mirrors the historical template for this specific content request, maintaining the correct tone, link, and formatting suitable for Twitter support."
+  },
+  {
+    "id": 37,
+    "customer_message": "@SpotifyCares I need help, my spotify premium gift card code doesn't work, I have two, tried them, both not valid. :(",
+    "reply": "@SpotifyCares Hi! I’m sorry those gift card codes aren’t working. Let’s get this sorted—please DM us your code details so we can verify and resolve the issue quickly. Thanks for your patience!",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares I need help",
+        "past_reply": "@329831 Hey there! We've just replied to your DM. We'll carry on helping there /JX",
+        "similarity": 0.3432
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply is empathetic, concise, and correctly directs the user to DM for sensitive code verification, aligning perfectly with standard support protocols for gift card issues."
+  },
+  {
+    "id": 189,
+    "customer_message": "@SpotifyCares why do I keep getting logged out of my account multiple times?",
+    "reply": "Hi there! Frequent logouts can be frustrating. To help us investigate, could you share your device, operating system, and Spotify app version? We'll check what's causing this. /MS",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares I keep getting logged out of Spotify on Chrome - happened around 4 or 5 times this afternoon. Any ideas?",
+        "past_reply": "@512826 Hey Jack! Can you send the device and operating system you're using? We'll see what we can do /MS",
+        "similarity": 0.4066
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately mirrors the historical support pattern by requesting necessary technical details to diagnose the logout issue while maintaining a helpful and concise tone."
+  },
+  {
+    "id": 28,
+    "customer_message": "@115888 STOP DELETING ALL MY SONGS. THIS IS THE 4TH TIME THIS MONTH. WHAT THE FUCK DO I PAY FOR?",
+    "reply": "@115888 We’re sorry you’re seeing songs disappear. Please check your library and any recent changes. If this persists, we’ll investigate further. /RK",
+    "grounding_used": [
+      {
+        "past_message": "@115888 stop deleting my songs smh 🤦‍♀️",
+        "past_reply": "@545121 Hey, sorry to hear that. We'd like to help. Can you let us know what device, operating system, and Spotify version you're using? /RK",
+        "similarity": 0.508
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 4,
+    "tone_fit": 3,
+    "actionability": 2,
+    "overall_comment": "The reply is polite and factually safe but fails to provide the specific diagnostic steps (device/version info) used in historical examples, leaving the customer without a clear path to resolution."
+  },
+  {
+    "id": 174,
+    "customer_message": "Help @SpotifyCares! Premium isn't showing up in my @115888 app so can't connect to Alexa, but definitely showing when I log in online",
+    "reply": "Hi there! Thanks for reaching out. Since your Premium status is visible online, please try logging out and back into the app. If the issue persists, check your device's internet connection. Let us know if you need further assistance! https://t.co/m4HWSbgHVZ",
+    "grounding_used": [
+      {
+        "past_message": "Why isn't my @115888 app working?? Now playing isn't showing up and if I pause my lockscreen, the app closes! I still have iOS10 btw",
+        "past_reply": "@584554 Great! Glad to hear it's working. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ 🙂 /AU",
+        "similarity": 0.2905
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 4,
+    "tone_fit": 5,
+    "actionability": 4,
+    "overall_comment": "The reply is tonally appropriate and factually consistent with the user's issue, but the grounding example is irrelevant as it addresses a completely different technical problem (app crash vs. account sync), resulting in low groundedness."
+  },
+  {
+    "id": 217,
+    "customer_message": "@SpotifyCares I was charged for Spotify premium but I still don't have Spotify premium https://t.co/PazsANSe78",
+    "reply": "@SpotifyCares We're sorry to hear that! If you're charged but don't have Premium, please check your email for a receipt. If the issue persists, reply with your account email so we can look into this for you.",
+    "grounding_used": [
+      {
+        "past_message": "Should I get spotify premium",
+        "past_reply": "@817378 Hey Katie! We have the answer to this question right here: https://t.co/fBWheBAEQe 😁 /LP",
+        "similarity": 0.5624
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply is excellent in tone, correctness, and actionability, but the provided grounding example is irrelevant to billing issues, creating a mismatch between the ground truth context and the generated response."
+  },
+  {
+    "id": 140,
+    "customer_message": "@SpotifyCares shuffle play isn’t working on mobile. Also my discover weekly is the same as last week. Any thoughts?",
+    "reply": "Hey there! For shuffle, try clearing the app cache or reinstalling. Discover Weekly refreshes every Monday, so if it’s not Monday yet, it won’t change. Check your reset time in settings. Need more help? DM us your device and OS /KL",
+    "grounding_used": [
+      {
+        "past_message": "@117153 shuffle play isn’t working via either the shuffle play button or shuffle on the song screen.",
+        "past_reply": "@776364 Hey Mindy, help's here. Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /KL",
+        "similarity": 0.5065
+      }
+    ],
+    "groundedness": 4,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply provides accurate troubleshooting steps and correctly explains the Discover Weekly refresh cycle while maintaining a concise, professional Twitter support tone."
+  },
+  {
+    "id": 24,
+    "customer_message": "@SpotifyCares why was I charged twice and yet did not receive this deal? I’m still on Spotify free!! https://t.co/u8o7SWsnAf",
+    "reply": "@123456 Hi! I’m sorry you’re seeing duplicate charges. Please DM us your account email and the transaction dates so we can investigate and resolve this for you. Thanks!",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares so i keep being charged @115888 when i checked for multiple accouts and only have one! I am selected spotify free see! https://t.co/wEKv1Lmqr8",
+        "past_reply": "@544121 Hey Maverick! Can you DM us your account's username and email address? We'll check things out behind the scenes /JL https://t.co/ldFdZRiNAt",
+        "similarity": 0.4873
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately follows the established support pattern of requesting private details via DM to investigate billing discrepancies, maintaining a professional and helpful tone."
+  },
+  {
+    "id": 152,
+    "customer_message": "@115888 pull thru and post yixing's album",
+    "reply": "Hey, we’ll have it available to you as soon as it’s available to us! Please check your region's catalog for updates. /RB",
+    "grounding_used": [
+      {
+        "past_message": "@115888 WHERE IS YIXING'S ALBUM??",
+        "past_reply": "@299296 Hey, we’ll have it available to you as soon as it’s available to us! https://t.co/0i8GpimuDa /RB",
+        "similarity": 0.6881
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 4,
+    "overall_comment": "The reply accurately mirrors the historical precedent for this specific request type, maintaining the correct tone and providing a standard, albeit passive, resolution path."
+  },
+  {
+    "id": 109,
+    "customer_message": "@115888 are there any plans to release a clean music filter? Definitely a @129941 feature that I miss",
+    "reply": "Hi there! Thanks for the suggestion. While we don't have a dedicated clean filter right now, you can use Parental Controls to block explicit content. Go to Settings > Explicit Content to toggle it off. We appreciate your feedback! /Team",
+    "grounding_used": [
+      {
+        "past_message": "So @115888, any plans on if/when you might be updating the Official @132021 playlists for TLJ? =)",
+        "past_reply": "@788131 Hey. Can you send us the Playlist Link? Just tap the three dots &gt; Share &gt; Copy Link. Also, what country is your account set to? /AY",
+        "similarity": 0.3553
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "While the reply is factually correct and well-toned, it scores low on groundedness because the provided historical example is irrelevant to the issue type (playlist update vs. feature request), failing to demonstrate alignment with how such specific feature suggestions are typically handled in the reference data."
+  },
+  {
+    "id": 9,
+    "customer_message": "@SpotifyCares I'm suddenly unable to log into my account on either desktop or iPhone. When I tried to enter my password, it wasn't recognizing that there was an account associated with my user name.",
+    "reply": "@user Sorry for the trouble! Please double-check your email/username and password. If it still doesn’t work, DM us your account email so we can verify and reset access. 🚀",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares My Spotify account on the phone app has now turned to a free account, when I have a premium? As well, I am unable to log onto my account on my desktop device? I do not know what has cause me to be logged out and suddenly changed to a free account",
+        "past_reply": "@770619 Hey Abby! Could you send us a DM with your account's email address or username? We'll take a look backstage /LO https://t.co/ldFdZRiNAt",
+        "similarity": 0.3453
+      },
+      {
+        "past_message": "@SpotifyCares I can't seem to log in to my account.",
+        "past_reply": "@214781 Thanks for the screenshot. Could you DM us your account's email address? We'll take a look backstage /RH https://t.co/ldFdZRiNAt",
+        "similarity": 0.2498
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply perfectly mirrors the historical support pattern by requesting account details via DM for verification while maintaining a concise and helpful tone."
+  },
+  {
+    "id": 8,
+    "customer_message": "@SpotifyCares keep getting paused and told my account is in use elsewhere after logging out everywhere. How to trace this issue?",
+    "reply": "@123456 Hey, we’re on it! Please DM us your username and email so we can investigate the unauthorized access and secure your account. 🚨",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares any chance you can let me know where else my account is being used that it keeps getting paused while I try to play it?",
+        "past_reply": "@377159 Hey there, help's here! Could you DM us your username and email address? We'll take a look backstage 🔍 /PX https://t.co/ldFdZRiNAt",
+        "similarity": 0.306
+      },
+      {
+        "past_message": "Hey @SpotifyCares, out of nowhere I am getting the message \"Spotify has been paused because your account has been used somewhere else.\". tbc",
+        "past_reply": "@565391 Hi Philipp, the cavalry's here! Can you DM us your username and email address? We'll take a look backstage /JI https://t.co/ldFdZRiNAt",
+        "similarity": 0.2578
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply perfectly mirrors the historical support examples by requesting the same DM information with a similar casual-professional tone to investigate the account issue."
+  },
+  {
+    "id": 25,
+    "customer_message": "Byt låt hur ofta du vill med Premium. Få 3 månader nu för bara 9,00 kr. https://t.co/mYBazVWBjj",
+    "reply": "@154711 Thanks for reaching out! We’re not able to process promotional offers here. If you have any other questions about Spotify, feel free to let us know!",
+    "grounding_used": [
+      {
+        "past_message": "Byt låt hur ofta du vill med Premium. Få 3 månader nu för bara 9,00 kr. https://t.co/fFSVXX4oOx",
+        "past_reply": "@154711 Hey! We can help out in English via Twitter, but we also have Swedish support via email at https://t.co/ZgU70TbP8M /MG",
+        "similarity": 0.9621
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 4,
+    "tone_fit": 3,
+    "actionability": 2,
+    "overall_comment": "The reply is factually safe but fails to align with the historical example by ignoring the language barrier and not directing the Swedish-speaking customer to appropriate support channels."
+  },
+  {
+    "id": 55,
+    "customer_message": "@SpotifyCares I need help with my account. My premium membership is not working. I have it connected through síminn.",
+    "reply": "Hi! Thanks for reaching out. We've just sent you a DM to help troubleshoot your Premium status. Please check your inbox so we can get this sorted for you! /AP",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares I need help with my account",
+        "past_reply": "@252226 Hi! We've just replied to your DM. Let's carry on chatting there /AP",
+        "similarity": 0.6321
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply effectively follows standard Twitter support protocols by moving the conversation to DMs for privacy and troubleshooting, matching the tone and structure of the historical example."
+  },
+  {
+    "id": 59,
+    "customer_message": "Hey @SpotifyCares, why do you replace some album tracks with live versions? e.g spotify:track:7xqeIdLJSf3bgmZ7vUvHrE and spotify:track:0R332cdlS9LyE0Ge2PSlVC are ones I noticed this afternoon, but I'm sure I've seen this for other artists too. What gives?",
+    "reply": "Hi there! Album contents can vary by region or edition (e.g., Deluxe versions). We can't manually edit tracks, but we've passed your feedback to our Content team. Thanks for helping us improve! /KB",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares Hello, the name for this track shouldn't have the artist in it:\nspotify:track:259Aw1vgC0Q9W3sELEznUk\nhttps://t.co/6pxr02XxQf\n\nSee https://t.co/hVndWrJdJf",
+        "past_reply": "@254907 We don't have any info on this right now, but we've given the Content team a nudge about this. Give us a shout if you need help with anything else /KB",
+        "similarity": 0.3805
+      }
+    ],
+    "groundedness": 4,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 4,
+    "overall_comment": "The reply effectively mirrors the support style of the historical example while providing a plausible explanation for the discrepancy and confirming that feedback has been forwarded."
+  },
+  {
+    "id": 130,
+    "customer_message": "@SpotifyCares student deal ended 30 Sep+was chargd 9.99,signed up 4 SD again 2day+chargd 4.99,now says will b chargd 30 Oct=19.99 in 1 mnth?",
+    "reply": "@SpotifyCares Hi there! It looks like there might be a billing overlap. Please check your payment settings in the app. If you still see double charges, reply with your account email so we can look into this specific transaction for you. /TF",
+    "grounding_used": [
+      {
+        "past_message": "@117168 @SpotifyCares Can I get the Student deal when I am in Highshool?",
+        "past_reply": "@294791 We can see how that’d be useful! You can vote for the official idea here: https://t.co/B79Dww7rFK. We hope this helps /TF",
+        "similarity": 0.2415
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 4,
+    "tone_fit": 5,
+    "actionability": 3,
+    "overall_comment": "The reply is tonally appropriate and factually safe, but it fails to address the specific billing logic concern and relies on a generic troubleshooting step that doesn't align with the provided historical example or the complexity of the user's issue."
+  },
+  {
+    "id": 155,
+    "customer_message": "@115888 noticed on my desktop app that the release date is no longer showing, is this due to a random update?",
+    "reply": "@115888 Hey there! We've just sent a DM your way. Let's carry on chatting there /MX",
+    "grounding_used": [
+      {
+        "past_message": "@115888 @SpotifyCares Any news on when an update to the desktop app to show release date in full?",
+        "past_reply": "@126825 Hey there! We've just sent a DM your way. Let's carry on chatting there /MX",
+        "similarity": 0.6419
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply perfectly mirrors the historical support pattern, maintains a professional and concise Twitter-appropriate tone, and effectively directs the user to a private channel for further assistance."
+  },
+  {
+    "id": 218,
+    "customer_message": "@115888 Why does the setting-&gt;advanced settings-&gt;Startup and Window behaviour not save my selection\n\nI have selected NO to open at logon, but EVERY time Spotify starts and  I DO NOT WANT THAT!!",
+    "reply": "@115888 Sorry to hear that! This sounds like a bug. Please try reinstalling the app to see if that fixes the setting. If not, send us a DM with your OS and app version so we can look into it further. /LM",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares - I'm on a fibre wifi - happens &gt;&gt; all the time &lt;&lt; 🔨 https://t.co/9RhslfXWi0",
+        "past_reply": "@601087 Gotcha. Could you try reinstalling the app using the steps here: https://t.co/EqisDMwZAT? /LM",
+        "similarity": 0.2612
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply effectively mirrors the historical support pattern by suggesting a reinstall and requesting further details via DM, while maintaining a concise and helpful tone appropriate for Twitter."
+  },
+  {
+    "id": 144,
+    "customer_message": "i was soooooo excited about that new @80437 on @115888 until I realized that it wasn't the same Joshua James. Might need a fix there https://t.co/azIvSS1qeo",
+    "reply": "Thanks for the info! We'll pass this along to our team. If you have more details, feel free to DM us your account email. We appreciate your feedback! 🎧",
+    "grounding_used": [
+      {
+        "past_message": "@115888 why is @38912 not playing? Need my fix.",
+        "past_reply": "@403891 Alright! Could you DM us your Spotify account's email address? We'll check it out backstage /BH https://t.co/ldFdZRiNAt",
+        "similarity": 0.3992
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply effectively mirrors the historical support pattern by requesting account details via DM while maintaining a friendly, brand-appropriate tone."
+  },
+  {
+    "id": 50,
+    "customer_message": "@SpotifyCares Hi guys! I am unable to access into my account and the screen says that I've been abroad for 14 days. What can I do to recover my account? Thanks.",
+    "reply": "@SpotifyCares Hi there! Sorry to hear you're locked out. Please DM us your account email so we can check your status and help you regain access. We're here to help! 🎧",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares I cannot access my account, ir says that I can only use Spotify abroad for 14 days.I don’t know what to do",
+        "past_reply": "@771092 Hey Felipe! Can you DM us your account's email address? We'll take a look backstage /JJ https://t.co/ldFdZRiNAt",
+        "similarity": 0.4292
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply perfectly mirrors the historical support pattern by requesting the account email via DM to verify status, while maintaining a concise and helpful tone."
+  },
+  {
+    "id": 184,
+    "customer_message": "Good one @115888, email to let me know I can get 3 months for $15, so I instantly open it up, all excited just to be met with a screen saying I don't qualify, even though you sent me the email\nWay to bring my hopes up, then smash them face first into the ground 😭 @SpotifyCares?",
+    "reply": "Hi there, we’re sorry to hear that! It sounds like there might be a mix-up with the offer. Please DM us your account email so we can investigate why it didn’t apply and help you out. /GT",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares, I'm trying to move to the $99 annual plan but I'm getting a message saying I don't qualify. Can you help? #TakeMyMoney https://t.co/fi2W3rV1Ic",
+        "past_reply": "@235098 Hi Manuel, help's here! Can you DM us your account's email address or username? We'll take a look backstage /GT https://t.co/ldFdZRiNAt",
+        "similarity": 0.2602
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply effectively mirrors the historical support pattern by politely requesting account details via DM to investigate the eligibility issue, maintaining a concise and helpful tone suitable for Twitter."
+  },
+  {
+    "id": 167,
+    "customer_message": "@125633 verify my spotify",
+    "reply": "Hi there! To help you verify your account, please DM us a screenshot of any error messages you're seeing, along with the email address associated with your Spotify account. We’ll take a look and get back to you shortly. /KC",
+    "grounding_used": [
+      {
+        "past_message": "@115888 hulu can't verify my spotify student account. All the suggestions take me in circles, can you assist?",
+        "past_reply": "@735200 Hey JT! Are you getting any specific error messages? If so, can you send over a screenshot via DM and include your account's email address? We'll check things out /KC https://t.co/ldFdZRiNAt",
+        "similarity": 0.361
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately mirrors the historical support pattern by requesting specific diagnostic details via DM, maintaining a helpful and concise tone suitable for Twitter."
+  },
+  {
+    "id": 180,
+    "customer_message": "I just wanna know why I can pick and choose ANY song I want on @115888 on the computer but not my app.. 😒 #SoAnnoying #NoImNotAPremiumUserAnymoreButStill",
+    "reply": "Hi! It sounds like a sync issue. Try updating the app, clearing the cache, and logging out/in. If the problem persists, please DM us your account email for further help. /MC",
+    "grounding_used": [
+      {
+        "past_message": "I just wanna know why @115888 doesn’t have lemonade yet",
+        "past_reply": "@606430 Hi! We don't have any more info to share about this, but we're working on it. Hopefully it'll be available soon: https://t.co/0i8GpimuDa /MC",
+        "similarity": 0.4029
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 3,
+    "tone_fit": 4,
+    "actionability": 4,
+    "overall_comment": "The reply provides standard troubleshooting steps but fails to address the specific context of the user's claim about their Premium status, making it feel generic rather than grounded in the specific complaint."
+  },
+  {
+    "id": 208,
+    "customer_message": "@115888 Hi ! I'm having a question, where is the file where are all the song i'm downloading ?",
+    "reply": "@115888 Hi there! Downloaded songs are stored within the app's cache and aren't accessible as individual files for security reasons. You can find them by going to 'Your Library' > 'Downloads'. Let us know if you need more help!",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares Hi having issues with my acc is there anything you guys can do?",
+        "past_reply": "@531182 Hi there! We've just sent you a bit more info over DM. Let's carry on chatting there /GU",
+        "similarity": 0.301
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply accurately addresses the user's misconception about file locations while providing the correct in-app navigation steps in a professional and concise tone."
+  },
+  {
+    "id": 108,
+    "customer_message": "@115888 I can't listen to the 2nd Blessings (track 14) from Chance 3 because the song link points to the 1st Blessings (track 5)... plz fix",
+    "reply": "@115888 Thanks for letting us know! We’ve passed this along to our content team to review the track linking issue. In the meantime, you can still enjoy the full album by navigating through the track list directly in the app. Thanks for listening! 🎧",
+    "grounding_used": [
+      {
+        "past_message": "@115888 i need a manager some guidance can you help me peace and blessings\nhttps://t.co/tifxFOFUbP",
+        "past_reply": "@179971 We understand. Our friends at Artist Services should be able to help you out with this. You can reach them at https://t.co/vOAHhqNTFM /NS",
+        "similarity": 0.2428
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 4,
+    "tone_fit": 5,
+    "actionability": 3,
+    "overall_comment": "The reply is polite and handles the user's concern gracefully, but it fails to address the specific account management context implied by the grounding example, instead treating it as a general content bug."
+  },
+  {
+    "id": 56,
+    "customer_message": "Anybody know when @115888 is hitting South African shores?",
+    "reply": "Thanks for your interest! We don't have a specific release date yet. You can vote for this feature on our community platform to help our team prioritize it: https://community.spotify.com/t5/Feature-Requests/idb-p/feature-requests",
+    "grounding_used": [
+      {
+        "past_message": "Does anybody know if @115888 plan on releasing an app for the Apple Watch?",
+        "past_reply": "@663801 Add your vote for this one as well to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /AR",
+        "similarity": 0.3553
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 4,
+    "tone_fit": 5,
+    "actionability": 4,
+    "overall_comment": "The reply correctly identifies the query as a feature request and directs the user to the community platform, mirroring the historical example's approach, though it assumes the ID refers to a feature rather than a specific artist or album which might be ambiguous."
+  },
+  {
+    "id": 115,
+    "customer_message": "@115888 I absolutely 100% HATE spotify lol.  How do I look up a playlist I made from another account?  I looked up the name of the playlist, the username, etc.  Nothing is showing up.",
+    "reply": "Hi there! To find a playlist from another account, you’ll need the direct link to that playlist. If you don’t have it, ask the account owner to share it. You can also try searching for the playlist name + the username in the search bar. Let us know if you need more help! /SY",
+    "grounding_used": [
+      {
+        "past_message": "I hate Spotify",
+        "past_reply": "@408852 Thanks! Currently, the video is only available in the US, but you can enjoy the single here: https://t.co/EjUrcbZN6T /SY",
+        "similarity": 0.4135
+      }
+    ],
+    "groundedness": 2,
+    "correctness": 3,
+    "tone_fit": 4,
+    "actionability": 3,
+    "overall_comment": "The reply provides generic troubleshooting steps that may not resolve the issue if the playlist is private, and it ignores the customer's frustration without acknowledging it."
+  },
+  {
+    "id": 151,
+    "customer_message": "So iOS 11 really borks Spotify, right?",
+    "reply": "Hi there! iOS 11 can sometimes cause glitches. Try updating the app to the latest version and restarting your device. If issues persist, visit our Help Center for more troubleshooting steps. https://support.spotify.com",
+    "grounding_used": [
+      {
+        "past_message": "@SpotifyCares please for the lsave us all with the iOS 11 update",
+        "past_reply": "@474551 Great! Glad to hear it's working. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /MG",
+        "similarity": 0.4584
+      }
+    ],
+    "groundedness": 4,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 4,
+    "overall_comment": "The reply provides standard, effective troubleshooting steps for app issues and matches the casual-professional tone, though it ignores the specific resolution context of the grounding example which implied the issue was already resolved."
+  },
+  {
+    "id": 71,
+    "customer_message": "Don’t you just love it when @115888 deletes about half of your songs for no reason 🙃 @SpotifyCares how do I️ fix this ?!?!",
+    "reply": "Hey, sorry to hear that! Check the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /MA",
+    "grounding_used": [
+      {
+        "past_message": "Love it when @115888 deletes all of my saved songs 🙃🙃🙃",
+        "past_reply": "@536551 Hey, sorry to hear that! Check the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /MA",
+        "similarity": 0.4016
+      }
+    ],
+    "groundedness": 5,
+    "correctness": 5,
+    "tone_fit": 5,
+    "actionability": 5,
+    "overall_comment": "The reply perfectly mirrors the historical example, correctly addresses the issue with a relevant help link, and maintains an appropriate, concise tone for Twitter support."
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 1,
+    "customer_message": "@SpotifyCares Hey, i was wondering if you were thinking of adding @118062 's \"The Taylor Swift Holiday Collection\" for the holidays?\ud83d\ude42",
+    "reply": "Thanks for the suggestion! We love hearing from our community. I\u2019ve forwarded your idea to our product team. Keep an eye on @SpotifyCares for updates! \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No direct support issue, just a feature request."
+  },
+  {
+    "id": 2,
+    "customer_message": "@SpotifyCares Why does the spotify app keep logging me out and says im set to offline. I have to keep reinstalling",
+    "reply": "Hi! It sounds like a login sync glitch. Try clearing the app cache, ensure your device\u2019s date/time is correct, and sign in again. If the issue persists, let us know for further help!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Common app logout issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 3,
+    "customer_message": "@SpotifyCares I'm on android and can't make a payment.message telling me bank is having bad day but  bank said they have no record",
+    "reply": "Hey! Sorry for the hassle. Let\u2019s get this sorted. Can you try adding your card again or use a different payment method? If it still fails, we\u2019ll need to check with your bank. DM us your account email for quick help!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard payment retry can be resolved by the bot."
+  },
+  {
+    "id": 4,
+    "customer_message": "HOYYY BAT WALA SA @115888 YUNG FULL ALBUM NG REPUTATIONNNNN!!! ARGHHHHH QIQIL NIYO KO HAAAA",
+    "reply": "Hi! We\u2019re sorry the full album isn\u2019t available right now. Our catalog changes frequently\u2014please check back later or let us know if you\u2019d like to be notified when it\u2019s added. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog issue handled by automated response"
+  },
+  {
+    "id": 5,
+    "customer_message": "@SpotifyCares Hey guys, I am trying to download a few playlists, and it's taking an absolutely insane amount of time. iPhone 6, iOS 11",
+    "reply": "Hi! Slow downloads can happen on older devices. Try clearing the cache, ensuring you\u2019re on Wi\u2011Fi, and restarting the app. If the issue persists, let us know and we\u2019ll dig deeper. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 6,
+    "customer_message": "hey @115888 i'm gonna need u guys to stop playing horror movie ads at night. i'm just tryna enjoy my \"simp/sad/feels\" playlist.",
+    "reply": "Hi @115888, we\u2019re sorry about the ads disrupting your listening. Please try disabling ads in your settings or upgrade to Premium for an ad\u2011free experience. Let us know if you need further help!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with in\u2011app settings; no escalation needed."
+  },
+  {
+    "id": 7,
+    "customer_message": "@spotifycares I have been charged my student discount amount but I still don't have premium?",
+    "reply": "Hi! We\u2019re sorry to hear that. Let\u2019s get this sorted. Please DM us your account email and the date of the charge so we can review the payment and restore your Premium access.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports a billing discrepancy that requires account review and potential refund or reactivation."
+  },
+  {
+    "id": 8,
+    "customer_message": "@SpotifyCares keep getting paused and told my account is in use elsewhere after logging out everywhere. How to trace this issue?",
+    "reply": "Hey! If you\u2019re seeing \u201cpaused\u201d and \u201caccount in use elsewhere\u201d after logging out everywhere, try resetting your device\u2019s app cache, reinstalling the app, and ensuring no other device is logged in. If it persists, let us know your device type and we\u2019ll dig deeper!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard troubleshooting steps should resolve the issue."
+  },
+  {
+    "id": 9,
+    "customer_message": "@SpotifyCares I'm suddenly unable to log into my account on either desktop or iPhone. When I tried to enter my password, it wasn't recognizing that there was an account associated with my user name.",
+    "reply": "Hi! Let\u2019s get you back in. Try resetting your password via the \"Forgot password\" link on the login page. If that doesn\u2019t work, clear your browser cache or reinstall the app. Need more help?",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard account access troubleshooting can be resolved with self\u2011service steps."
+  },
+  {
+    "id": 10,
+    "customer_message": "Bad reputation isn't on @117168.... please fix it",
+    "reply": "We\u2019re sorry, but we can\u2019t help with that. If you have a Spotify-related question, let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No actionable support request."
+  },
+  {
+    "id": 11,
+    "customer_message": "@SpotifyCares Hi! I have an issue updating my CC info. Can you please help me?",
+    "reply": "Sure! To update your credit card info, go to Settings > Account > Payment & Billing and follow the prompts. If you run into any trouble, let us know!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Updating payment info can be resolved with provided steps and no further escalation needed."
+  },
+  {
+    "id": 12,
+    "customer_message": "@SpotifyCares when will spotify be available in the Middle East?",
+    "reply": "Thanks for reaching out! Spotify is currently not available in the Middle East, but we\u2019re exploring options to expand soon. Stay tuned for updates!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No additional troubleshooting required."
+  },
+  {
+    "id": 13,
+    "customer_message": "@SpotifyCares Yes. My other tweet about a local album.",
+    "reply": "Thanks for reaching out! If you have any questions about Spotify, feel free to let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support request detected."
+  },
+  {
+    "id": 14,
+    "customer_message": "@SpotifyCares I am billed $10.60/month via credit card but I don't have a spotify account that I can login to cancel.",
+    "reply": "We\u2019re sorry to hear about this. Please DM us your last four credit card digits and the email associated with the charge so we can investigate and help you resolve the billing issue.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports an unauthorized charge and inability to access an account, requiring manual review by the billing team."
+  },
+  {
+    "id": 15,
+    "customer_message": "\u00c4l\u00e4 anna mainosten katkaista flow'ta. 3 kuukautta Premiumia nyt vain 0,99 \u20ac. https://t.co/7WhwTb4VvB",
+    "reply": "Thanks for sharing! If you need help with your Premium subscription or any other issue, just let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 16,
+    "customer_message": "Pourquoi la concurrence a deja l\u2019album de Kopp ? @115888",
+    "reply": "We\u2019re sorry you\u2019re having trouble finding Kopp\u2019s album. Availability depends on licensing agreements that vary by region. If you\u2019re in a region where it\u2019s not yet available, we\u2019ll let you know when it\u2019s added.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue is a catalog availability question that can be answered without escalation."
+  },
+  {
+    "id": 17,
+    "customer_message": "@115888 when are you guys releasing your app in India??",
+    "reply": "Thanks for reaching out! We're continuously working on expanding to new regions. Stay tuned for updates on our official channels.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue, general inquiry."
+  },
+  {
+    "id": 18,
+    "customer_message": "@5734 @SpotifyCares why can\u2019t I play \u201cPut You in a Song\u201d? \ud83d\ude41 https://t.co/AjnNaW5QLy",
+    "reply": "Hey there! It looks like you\u2019re having trouble playing \u201cPut You in a Song.\u201d Try restarting the app or clearing your cache. If that doesn\u2019t help, let us know the device you\u2019re using and we\u2019ll dig deeper. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard playback issue can be resolved with basic troubleshooting steps."
+  },
+  {
+    "id": 19,
+    "customer_message": "Frustrating: @115888 won't let you sort \"albums\" into groups AND won't let you view a playlist in \"albums\" cover mode? 1/",
+    "reply": "Thanks for sharing! We\u2019ll pass your feedback on sorting albums and playlist cover mode to our product team. In the meantime, try refreshing the app or clearing the cache. Let us know if that helps!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a feature request; no immediate support required."
+  },
+  {
+    "id": 20,
+    "customer_message": "Hi @SpotifyCares what do you think of \"Anywhere\" by @350462? I'd love to hear it from \"Today's Top Hits\". I'm looking forward! X",
+    "reply": "Thanks for reaching out! We\u2019ll check the availability of \"Anywhere\" in the \"Today's Top Hits\" playlist and get back to you shortly. Stay tuned for updates!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog check handled by automated system"
+  },
+  {
+    "id": 21,
+    "customer_message": "How does Spotify tell you that you can get Hulu for free under Spotify premium only to sneak up and charge me an extra $4.99 plus tax like dude I'm a broke college student why do you gotta do me dirty like that Spotify? \ud83d\ude43",
+    "reply": "We\u2019re sorry for the confusion. The Hulu offer is optional and requires a separate subscription. If you didn\u2019t intend to add it, we can help you cancel the charge. Please DM us your account email so we can assist further.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard billing issue can be resolved with account details via DM."
+  },
+  {
+    "id": 22,
+    "customer_message": "@117168 I am unable to login to my account? Tried resetting, it even had my profile name like I was already logged in at the top. Help!",
+    "reply": "Hi @117168, sorry you're having trouble logging in. Try clearing your browser cache or using the app\u2019s \u201cForgot Password\u201d flow again. If it still doesn\u2019t work, let us know and we\u2019ll help reset your account.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Login issues can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 23,
+    "customer_message": "Hey @SpotifyCares my android version of the app randomly pauses on its own. Just thought I'd report the bug.",
+    "reply": "Sorry for the hiccup! Try clearing the app cache or reinstalling. If the issue persists, let us know the Android version and app build so we can dig deeper. Thanks for reporting!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard playback issue resolved with common troubleshooting steps."
+  },
+  {
+    "id": 24,
+    "customer_message": "@SpotifyCares why was I charged twice and yet did not receive this deal? I\u2019m still on Spotify free!! https://t.co/u8o7SWsnAf",
+    "reply": "Hi! We\u2019re sorry about the double charge. Please check your payment history in the app and let us know the date and amount. We\u2019ll investigate and resolve it ASAP.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard billing double-charge issue handled by automated system."
+  },
+  {
+    "id": 25,
+    "customer_message": "Byt l\u00e5t hur ofta du vill med Premium. F\u00e5 3 m\u00e5nader nu f\u00f6r bara 9,00 kr. https://t.co/mYBazVWBjj",
+    "reply": "Thanks for reaching out! If you have any questions about Spotify, feel free to let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The tweet is a promotional spam message, not a support request."
+  },
+  {
+    "id": 26,
+    "customer_message": "Why am I hearing commercials? I am a premium customer. @117153",
+    "reply": "Hi @117153, sorry to hear ads are playing on your Premium account. Please try clearing your app cache or reinstalling. If the issue persists, let us know so we can investigate further. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 27,
+    "customer_message": "@181186 how i'm gonna pay to subscribe premium if i don't have any credit card or molpoint?",
+    "reply": "Hey @181186, you can add a debit card, PayPal, or use a prepaid card to subscribe to Premium. If you need more options, let us know and we\u2019ll guide you through the steps!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard payment options and guidance."
+  },
+  {
+    "id": 28,
+    "customer_message": "@115888 STOP DELETING ALL MY SONGS. THIS IS THE 4TH TIME THIS MONTH. WHAT THE FUCK DO I PAY FOR?",
+    "reply": "We\u2019re sorry you\u2019re experiencing song deletions. Please try clearing your app cache or reinstalling. If the issue persists, let us know your account email and we\u2019ll investigate further.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "User reports repeated data loss, requiring deeper investigation."
+  },
+  {
+    "id": 29,
+    "customer_message": "@115888  where's #Reputation\u202f\u202f???!! @72782",
+    "reply": "Hi there! We\u2019re sorry you can\u2019t find #Reputation. Let\u2019s check if it\u2019s available in your region. Please try searching again or let us know your country so we can help further.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard catalog info lookup."
+  },
+  {
+    "id": 30,
+    "customer_message": "@SpotifyCares I opened spotify on my Android and It looks like this: Never been zoomed in so much before https://t.co/fzRpeHuQUU",
+    "reply": "Hi! It sounds like your screen is zoomed in on the app. Try going to Settings > Display > Reset zoom or uninstall/reinstall the app. Let us know if that fixes it!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with in-app or device settings."
+  },
+  {
+    "id": 31,
+    "customer_message": "@SpotifyCares @115888 @116130 your podcasts play backwards. EG when ep4 is over will skip to ep3. Very frustrating. #podcasts #Spotify https://t.co/OGpJihdWe3",
+    "reply": "Sorry for the trouble! It sounds like a playback glitch. Please try clearing the app cache or reinstalling. If the issue persists, let us know and we\u2019ll dig deeper. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Common playback bug that can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 32,
+    "customer_message": "@SpotifyCares I used to have family and it just stopped.  auto payment didn't go through.\nbarryv-ca",
+    "reply": "Hi Barry, sorry to hear the auto\u2011payment failed. Let\u2019s get your family plan back on track. Please check your payment method in the app and try again, or visit support.spotify.com for help.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard payment issue can be resolved with in\u2011app guidance."
+  },
+  {
+    "id": 33,
+    "customer_message": "@SpotifyCares you just added this album but it\u2019s not a 2017 release https://t.co/4v2KKxAOpu",
+    "reply": "Hey! Thanks for pointing that out. We\u2019ll check the release date and make sure the album is correctly listed. We\u2019ll update you shortly.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with internal catalog review."
+  },
+  {
+    "id": 34,
+    "customer_message": "@SpotifyCares Tried every recommendation in your Community, none work. Need to speak to tech support ASAP.",
+    "reply": "Hi! We\u2019re sorry the recommendations aren\u2019t working. Let\u2019s get this fixed\u2014please visit help.spotify.com or open the app\u2019s support section for a quick chat with our tech team.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue is a standard playback problem that can be resolved through our self\u2011service support channels."
+  },
+  {
+    "id": 35,
+    "customer_message": "Someone hacked my @115888 account, and now all my playlists are gone @SpotifyCares",
+    "reply": "We're sorry to hear about the security issue. Please visit https://support.spotify.com/account/security/ to secure your account and restore your playlists. If you need further help, let us know!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports a potential account hack, requiring security investigation."
+  },
+  {
+    "id": 36,
+    "customer_message": "@SpotifyCares ay why y'all charge me twice?",
+    "reply": "Hey @user, sorry to hear about the double charge. Please DM us with your account email and the transaction details so we can investigate and resolve it ASAP.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard billing inquiry handled by automated system"
+  },
+  {
+    "id": 37,
+    "customer_message": "@SpotifyCares I need help, my spotify premium gift card code doesn't work, I have two, tried them, both not valid. :(",
+    "reply": "Hi! Sorry to hear the gift card codes aren\u2019t working. Please double\u2011check the code and any spaces or dashes. If it still fails, let us know the last 4 digits and we\u2019ll investigate further. Thanks!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 38,
+    "customer_message": "Yo @116130 - 2 Sugarbabes songs in today's #ThrowbackThursday, but only 1 Take That song? Whats going on?! Also, nothing from the OG boyband the Jackson 5? AND how can S Club 7 be in there, they're not a boyband or a girl band! @SpotifyCares",
+    "reply": "Hey @116130, we\u2019re working on expanding our Throwback Thursday lineup! The lineup can vary each day. We\u2019ll review the missing tracks and add them soon. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog update request"
+  },
+  {
+    "id": 39,
+    "customer_message": "Students now get access to Hulu with Spotify Premium. And it\u2019s still just $4.99/month.  https://t.co/u2Yb1qUpnR",
+    "reply": "Thanks for sharing! If you have any questions about Spotify or need help with your account, just let us know. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue present"
+  },
+  {
+    "id": 40,
+    "customer_message": "@SpotifyCares why does your website have trouble loading on a multi weekly basis? THIS IS A SERVICE I PAY $120 A YEAR FOR GET YOUR LIFE TOGETHER!",
+    "reply": "Hi! Sorry for the inconvenience. Can you try clearing your browser cache or using a different browser? If the issue persists, let us know the device and browser version so we can investigate further.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a common website loading problem that can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 41,
+    "customer_message": "Premium na 3\u00a0m\u011bs\u00edce te\u010f stoj\u00ed jen 0.99 EUR. Poslouchej i\u00a0offline, kdykoli m\u00e1\u0161 chu\u0165. https://t.co/LT9F0fIGKE",
+    "reply": "Thanks for sharing! If you have any questions about Spotify, feel free to ask.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The tweet is a promotional message, not a support request."
+  },
+  {
+    "id": 42,
+    "customer_message": "@SpotifyCares, When an we expect the fix for the sharing songs without app crashes? I'm Android and seeing the issue as are others on IOS",
+    "reply": "Thanks for reaching out! We\u2019re aware of the sharing crash on Android and are working on a fix. We\u2019ll keep you posted\u2014check the app updates for the patch.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is known and being addressed in a future update."
+  },
+  {
+    "id": 43,
+    "customer_message": "@115888 is there any kind of customer service phone number",
+    "reply": "Hi! We don\u2019t have a phone line, but our help center at https://support.spotify.com offers quick answers. If you need more help, let us know here!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No escalation needed; can be resolved via help center."
+  },
+  {
+    "id": 44,
+    "customer_message": "@SpotifyCares Hey, I can't buy premium :(",
+    "reply": "Hi! Sorry you\u2019re having trouble upgrading. Let\u2019s get this sorted. Please try again in a few minutes or use a different payment method. If it still doesn\u2019t work, DM us your account email and we\u2019ll help ASAP!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 45,
+    "customer_message": "@115888 put truly, madly, deeply &amp; irresistible on Spotify https://t.co/vez1zL9Sbs",
+    "reply": "Thanks for sharing! If you need help with anything Spotify related, just let us know. Enjoy your music!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 46,
+    "customer_message": "@SpotifyCares messaged",
+    "reply": "Thanks for reaching out! If you need help, let us know what\u2019s going on.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The message contains no actionable support request."
+  },
+  {
+    "id": 47,
+    "customer_message": "@SpotifyCares I am having triuble with cancelling my premium as ther is no change or cancel option on my laptop or phone",
+    "reply": "Hi! You can cancel your Premium plan in the app by going to Settings > Account > Manage Subscription. If you\u2019re still having trouble, let us know and we\u2019ll help you through it.",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue can be resolved with standard instructions and does not require higher-level intervention."
+  },
+  {
+    "id": 48,
+    "customer_message": "Trial By Fire drops at midnight - https://t.co/GWrk9jAUJQ #Slumerican #Shady #Interscope https://t.co/AVaC21CYYB",
+    "reply": "Thanks for sharing! Enjoy the new release!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 49,
+    "customer_message": "Roses are red, violets are blue, #1ed760 is the official Spotify green.",
+    "reply": "Thanks for sharing! If you have any questions or need help with Spotify, just let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue present."
+  },
+  {
+    "id": 50,
+    "customer_message": "@SpotifyCares Hi guys! I am unable to access into my account and the screen says that I've been abroad for 14 days. What can I do to recover my account? Thanks.",
+    "reply": "Hi! It sounds like you\u2019re facing a location restriction. Please go to Settings \u2192 Account \u2192 Verify your location in the app, or try logging in from a device in your home country. If that doesn\u2019t work, let us know for further help!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "User cannot access account due to location lock; requires manual review."
+  },
+  {
+    "id": 51,
+    "customer_message": "@117153 Hi. I've upgraded to Premium for Family but still pending for update. Please advise, thanks.",
+    "reply": "Hi @117153! We\u2019re looking into your Premium Family upgrade. It can take up to 24\u202fhrs to reflect. If it still shows pending after that, let us know and we\u2019ll investigate further. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 52,
+    "customer_message": "@115888 (3) their playlists bc ur algorithm cant do it. https://t.co/lsl6neTqHv\n\nTake care of ur customers. Fix ur shuffle, it isn't hard.",
+    "reply": "Thanks for sharing your thoughts! We\u2019re constantly working to improve our shuffle algorithm. Your feedback helps us make Spotify better\u2014keep it coming!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard feedback; no escalation needed."
+  },
+  {
+    "id": 53,
+    "customer_message": "@SpotifyCares I'm trying to get your year of Premium at $99, but it says I don't have a Premium acct., but that's exactly what I have. Help!",
+    "reply": "Hey @user, sorry for the confusion! Let\u2019s sort this out. Please DM us your email and the last 4 digits of the card used for your Premium plan so we can verify and fix the issue. Thanks!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard support steps."
+  },
+  {
+    "id": 54,
+    "customer_message": "@117153 having issues with my payment every month. Already checked the credit card with my bank and everything is OK. What can I do?",
+    "reply": "Hi @117153, sorry to hear about the payment trouble. Please try updating your card info in the app or contact our billing support at support@spotify.com for further assistance.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard billing steps"
+  },
+  {
+    "id": 55,
+    "customer_message": "@SpotifyCares I need help with my account. My premium membership is not working. I have it connected through s\u00edminn.",
+    "reply": "Hi! We\u2019re sorry you\u2019re having trouble with your Premium. Let\u2019s verify your account. Please visit https://support.spotify.com/account to reset your password or confirm your subscription. If that doesn\u2019t help, we\u2019ll get you a specialist.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard support steps."
+  },
+  {
+    "id": 56,
+    "customer_message": "Anybody know when @115888 is hitting South African shores?",
+    "reply": "Thanks for reaching out! We\u2019re working hard to get @115888 available in South Africa. We\u2019ll let you know as soon as it\u2019s live\u2014stay tuned!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog availability inquiry"
+  },
+  {
+    "id": 57,
+    "customer_message": "why is acid rap not on @115888? :( @167274",
+    "reply": "Hi @115888, sorry acid rap isn\u2019t available in your region yet. We\u2019re working to bring it to more countries soon. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog availability issue handled by automated response."
+  },
+  {
+    "id": 58,
+    "customer_message": "@115888 should bring back the lyrics mode.... I've been waiting for it to come back for soooo long!",
+    "reply": "Thanks for the suggestion! We\u2019ll forward your request to our product team. In the meantime, you can use the built\u2011in lyrics feature in supported songs. Let us know if you need anything else!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests can be handled in\u2011house and do not require escalation."
+  },
+  {
+    "id": 59,
+    "customer_message": "Hey @SpotifyCares, why do you replace some album tracks with live versions? e.g spotify:track:7xqeIdLJSf3bgmZ7vUvHrE and spotify:track:0R332cdlS9LyE0Ge2PSlVC are ones I noticed this afternoon, but I'm sure I've seen this for other artists too. What gives?",
+    "reply": "Hi! We sometimes replace tracks with live or alternate versions due to licensing agreements or regional rights. If you\u2019d like the original, let us know your region and we\u2019ll see what\u2019s possible. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog change explanation handled by automated response."
+  },
+  {
+    "id": 60,
+    "customer_message": "I'm unninstalling @115888 cause it keeps turning my account back to free. I pay for it and cant use it, it's a shame.",
+    "reply": "We\u2019re sorry you\u2019re having trouble. Please send us a DM with your email and the last payment receipt so we can investigate and restore your paid plan.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports a payment issue that requires account investigation."
+  },
+  {
+    "id": 61,
+    "customer_message": "@SpotifyCares I am still a current Grad student at the University of Utah and noticed today that I have been paying the standard $10/month lately instead of being on the student plan like I was. Why did I get blindsided and how long have I been paying $10 and not $5?",
+    "reply": "Hi! We\u2019re sorry for the mix\u2011up. Our system may have switched your plan when your student status expired. Let\u2019s review your account and restore the student rate. Please DM us your email or phone for quick help!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved within the support team without escalation."
+  },
+  {
+    "id": 62,
+    "customer_message": "@SpotifyCares I'm currently having a problem with paysafecards and activating premium. I dmed you a few minutes ago, and I really need help",
+    "reply": "Hi! We\u2019re looking into your PaySafeCard issue. Please provide the last 4 digits of the card and the error message you see so we can help you activate Premium ASAP.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Payment card activation issues require manual review by the billing team."
+  },
+  {
+    "id": 63,
+    "customer_message": "@SpotifyCares um bring jay z back to spotify i need me some watch the throne",
+    "reply": "Hey @user, we\u2019re always working to bring more music to Spotify! While we can\u2019t add Jay\u202fZ\u2019s catalog right now, we\u2019ll keep you updated on any future releases. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog request handled by automated response"
+  },
+  {
+    "id": 64,
+    "customer_message": "@SpotifyCares Nope. No change at all",
+    "reply": "Got it! If you need help with anything else, just let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support request detected."
+  },
+  {
+    "id": 65,
+    "customer_message": "Really sucks that @115888 has a download limit",
+    "reply": "We\u2019re sorry you\u2019re having trouble with downloads. Please share the song\u2019s title so we can investigate further. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with internal troubleshooting."
+  },
+  {
+    "id": 66,
+    "customer_message": "@SpotifyCares \nI can play several albums, including this one in Chrome, but the application won't play it\n\nhttps://t.co/fZ2Z9SvQb4 https://t.co/9J9vUW664T",
+    "reply": "Sorry for the trouble! Try clearing your browser cache or disabling extensions, then reload the page. If it still won\u2019t play, let us know the exact error message and we\u2019ll dig deeper.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard playback troubleshooting can be resolved with basic steps."
+  },
+  {
+    "id": 67,
+    "customer_message": "@SpotifyCares why do all my downloaded songs keep in downloading? This is the 5th time it\u2019s happened...",
+    "reply": "Hi! It sounds like your downloads are stuck. Try pausing and resuming the download, or clear the cache in Settings > Storage. If it still doesn\u2019t finish, let us know and we\u2019ll dig deeper!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Common download issue resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 68,
+    "customer_message": "@SpotifyCares When are you guys going to bring spotify services to India !?",
+    "reply": "Thanks for reaching out! Spotify is currently not available in India, but we\u2019re actively exploring expansion. Stay tuned for updates on our official channels!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue, general information request."
+  },
+  {
+    "id": 69,
+    "customer_message": "Want a break from the ads? Watch this short video for 30 minutes of ad free music! @SpotifyCares",
+    "reply": "Thanks for the suggestion! We appreciate your enthusiasm, but we\u2019re not able to promote external content. If you have any Spotify questions, let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue present."
+  },
+  {
+    "id": 70,
+    "customer_message": "@SpotifyCares you guys overcharged me twice for the student discount this month!",
+    "reply": "Hi @user, sorry to hear about the double charge. We\u2019ll investigate right away. Please DM us your account email and the charge dates so we can resolve this ASAP. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Duplicate student discount charge requires billing team review."
+  },
+  {
+    "id": 71,
+    "customer_message": "Don\u2019t you just love it when @115888 deletes about half of your songs for no reason \ud83d\ude43 @SpotifyCares how do I\ufe0f fix this ?!?!",
+    "reply": "We\u2019re sorry you\u2019re missing songs! Please check the \u201cYour Library\u201d > \u201cPlaylists\u201d > \u201cRecently Deleted\u201d and try re\u2011adding them. If the issue persists, let us know the song titles and we\u2019ll investigate further. #SpotifySupport",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 72,
+    "customer_message": "\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f WHY IS @4475 ALBUM STILL NOT OUT IN MY REGION YET?? @115888 FIX IT!! \ud83c\uddfa\ud83c\uddf8 https://t.co/26jnBkV1sR",
+    "reply": "Hi! We\u2019re working hard to get @4475\u2019s album available in the US as soon as possible. Thanks for your patience\u2014keep an eye on your account for updates!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog availability inquiry handled by automated response"
+  },
+  {
+    "id": 73,
+    "customer_message": "@SpotifyCares my plan says it was family premium when i was sign up for the student rate, need help before im charged",
+    "reply": "Hi @user, we\u2019re sorry about the mix\u2011up! Please check your account settings or let us know your email so we can correct your plan to Student before any charge.",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Escalate",
+    "escalate_reason": "The user needs account verification and plan adjustment, which requires human review."
+  },
+  {
+    "id": 74,
+    "customer_message": "Hey @115888 , can you explain me this? https://t.co/Xch4Tg7f9O",
+    "reply": "Hi! I\u2019m not able to click links, but if you\u2019re looking for help with a specific issue, just let me know and I\u2019ll do my best to assist!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No actionable support request detected."
+  },
+  {
+    "id": 75,
+    "customer_message": "We're investigating some payment issues and working hard to get things fixed. We'll provide updates here as we receive them.",
+    "reply": "Thanks for the update! We'll keep an eye out for further info.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No user request or support needed."
+  },
+  {
+    "id": 76,
+    "customer_message": "Did anyone else noticed #AgustD mixtape is unplayable on @115888 \ud83d\ude22\ud83d\ude22\ud83d\ude22 https://t.co/YIFCCa39g1",
+    "reply": "Hey! We\u2019re sorry you\u2019re having trouble playing the #AgustD mixtape. Our team is looking into it\u2014please try clearing your cache or updating the app. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 77,
+    "customer_message": "@SpotifyCares my Spotify charged me \u00a39.99 when I selected student, now I cant use my uni days as it says its on another account",
+    "reply": "Hi! Sorry to hear about the charge. Please DM us your email and account details so we can review the student discount and refund any overcharge.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Requires billing review and potential refund."
+  },
+  {
+    "id": 78,
+    "customer_message": "@SpotifyCares hi. playlist folders would be amazing in your app \ud83e\udd19",
+    "reply": "Thanks for the suggestion! We\u2019re always looking for ways to improve. Your idea about playlist folders will be forwarded to our product team.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled automatically and forwarded internally."
+  },
+  {
+    "id": 79,
+    "customer_message": "I don\u2019t like how spaced out \u201ccancel\u201d is in the Spotify app @115888 please fix thanks love you https://t.co/lPZussuFi1",
+    "reply": "Thanks for the feedback! We\u2019ll forward your suggestion about the \u201cCancel\u201d button spacing to our design team. If you need help right now, let us know!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "This is a standard feature feedback that can be handled without escalation."
+  },
+  {
+    "id": 80,
+    "customer_message": "@SpotifyCares Ik ben uitgenodigd voor een family abonnement echter heb ik deze uitnodiging nooit ontvangen en wordt er al wel voor family betaald. Hoe kan dit opgelost worden?",
+    "reply": "Hi! It sounds like you haven\u2019t received your Family plan invite. Let\u2019s get this sorted\u2014please DM us your email and the invite link so we can resend it for you. Thanks for reaching out!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard support steps."
+  },
+  {
+    "id": 81,
+    "customer_message": "@SpotifyCares I know how many followers the playlist has but, is there any way I can see who's following a playlist I created?",
+    "reply": "Thanks for reaching out! Currently, Spotify doesn\u2019t let you view who follows a playlist. We\u2019ll pass this feedback to the product team. In the meantime, you can share the playlist link to see who\u2019s listening!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue, just a feature request."
+  },
+  {
+    "id": 82,
+    "customer_message": "@115888 why does the Spotify widget go blank 30 mins of no use? Android s7 updated app, sleep/power exclusion set. Audible has no issue!",
+    "reply": "Hi @115888, sorry for the trouble! Try clearing the app cache, updating to the latest version, and restarting your phone. If the widget still blanks out, let us know and we\u2019ll dig deeper.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with basic troubleshooting steps."
+  },
+  {
+    "id": 83,
+    "customer_message": "@116130 why has my Spotify not worked all bloody day!! Ruined my commute to and from work in London today \ud83d\ude21",
+    "reply": "Hey @116130, sorry to hear Spotify\u2019s been acting up all day. Let\u2019s get it back on track! Can you tell us what device you\u2019re using and if you\u2019ve tried restarting the app?",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with basic troubleshooting steps."
+  },
+  {
+    "id": 84,
+    "customer_message": "@SpotifyCares mine and my friends spotify premium isnt working for some reason (since wednesday afternoon) :(",
+    "reply": "Hi! Sorry to hear that Premium isn\u2019t working. Please try logging out and back in, clearing cache, or reinstalling the app. If it still fails, let us know your device type and any error codes so we can help further!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard troubleshooting steps are sufficient for this common playback issue."
+  },
+  {
+    "id": 85,
+    "customer_message": "Hello, @SpotifyCares? Trying to add Husband to Premium Family account and you don't like his email address for some reason!",
+    "reply": "Hi! We\u2019re sorry for the hiccup. Family members must use an email that hasn\u2019t been used for a Spotify account before. If you\u2019re still stuck, let us know the exact error and we\u2019ll help you further!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a common email restriction that can be resolved with a quick explanation."
+  },
+  {
+    "id": 86,
+    "customer_message": "@115888 doesn't allow me to change country to US. I have cleared my cookie/cache and tried incognito mode. Pls hlp or I have to cancel",
+    "reply": "Hi @115888, sorry for the trouble. It looks like country changes are restricted for your account. Please share your email so we can review and help you update your region. Thanks!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Country change requires account review and potential manual intervention."
+  },
+  {
+    "id": 87,
+    "customer_message": "Hey @115888 u used to be cool... #wantmypremiumaccountback",
+    "reply": "Hi! We\u2019d love to help you get your Premium back. Can you share the email linked to your account or the last transaction? We\u2019ll look into it right away!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard subscription request can be resolved within the automated system."
+  },
+  {
+    "id": 88,
+    "customer_message": "@SpotifyCares hello, i sent a message to you, i hope you reply it immediately, thank you :)",
+    "reply": "Hi! We\u2019re here to help. Please let us know what you need assistance with, and we\u2019ll get back to you ASAP. Thanks!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 89,
+    "customer_message": "@115888 pretty crappy that a playlist has 45 songs and I\u2019m hearing more suggested tracks than the actual playlist #Spotify",
+    "reply": "Sorry you\u2019re hearing extra tracks! Try reloading the playlist or clearing the cache. If the issue persists, let us know\u2014we\u2019ll look into it. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 90,
+    "customer_message": "@SpotifyCares \ud83d\ude0a https://t.co/QNMkh7l5I7",
+    "reply": "Thanks for reaching out! If you need any help, just let us know. \ud83c\udfa7",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 91,
+    "customer_message": "@spotifycares why isn't hello by svt available in america why isn't hello by svt available in america why isn't hello by svt available in america why isn't hello by svt available in america why isn't hello by svt available in america why isn't hello by svt available in america wh",
+    "reply": "Hey! The availability of songs can vary by region due to licensing. We\u2019re working to bring more tracks to the US. In the meantime, you can check for similar songs or add it to a playlist for future releases!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard content availability inquiry handled by automated response."
+  },
+  {
+    "id": 92,
+    "customer_message": "@115888 you don't have things that go bump in the night by allSTARS* ? what am i paying for ??",
+    "reply": "Hey! It looks like the track isn\u2019t available in your region. We\u2019re working on expanding our catalog\u2014thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog issue handled by automated response"
+  },
+  {
+    "id": 93,
+    "customer_message": "Dear @SpotifyCares, can we stop putting edited songs in the Daily Mixes? I'm expecting explicit content if listening to @13987, @10022, @62966 and more.",
+    "reply": "Hi! Thanks for your feedback. We\u2019ll pass your request to the team to consider removing edited tracks from Daily Mixes. In the meantime, you can toggle the \u2018Explicit\u2019 setting in your account to control content.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled by the product team through automated routing."
+  },
+  {
+    "id": 94,
+    "customer_message": "@115888 when it'll be starts in India?",
+    "reply": "Hey @115888! Spotify will launch in India on 15th September 2024. Stay tuned for more updates!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog launch info can be handled automatically."
+  },
+  {
+    "id": 95,
+    "customer_message": "@115888 I have a free account w/ a long account name given by Spotify. On this account I have created multiple playlists.  I want to purchase premium but am unable to access this free account (error mentions CRFA?).  How do I get a new account and keep my playlists/history?",
+    "reply": "Hi @115888, it sounds like you\u2019re hitting a limit on free accounts. You can upgrade by creating a new account and then import your playlists via the \u201cShare\u201d \u2192 \u201cCopy Playlist Link\u201d feature. Let us know if you need help!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard account upgrade steps."
+  },
+  {
+    "id": 96,
+    "customer_message": "@SpotifyCares HI! Is there a way to carry playlists over from old accounts? Remade a new non-FB account and would like to take my playlists",
+    "reply": "Hey! We can\u2019t directly transfer playlists between accounts, but you can share each playlist to your new account or use the Spotify Transfer feature if available. Let us know if you need help with that!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard feature\u2011request handled by automated response."
+  },
+  {
+    "id": 97,
+    "customer_message": "@SpotifyCares I just paid $119.88 for a year of premium like 2 days ago, and still not enabled for premium. WTF...",
+    "reply": "Hi! We\u2019re on it. Your payment should activate Premium within a few minutes. If it\u2019s still pending, please check your email for confirmation or let us know. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard billing issue can be resolved with automated support."
+  },
+  {
+    "id": 98,
+    "customer_message": "@115888 if you could add the \u2018hold a song to hear a snippet\u2019 on mobile back that\u2019d be great \ud83d\udc4d\ud83c\udffd. Either way, ily",
+    "reply": "Thanks for the suggestion! We\u2019ve forwarded your idea to our product team. Keep an eye on updates for new features. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled by the product team and do not require escalation."
+  },
+  {
+    "id": 99,
+    "customer_message": "@115888 Please add the @100225 and @100226 podcasts!",
+    "reply": "Thanks for the suggestion! We\u2019ll forward your request to the team. In the meantime, you can add those podcasts to your library by searching for them and tapping \"Follow.\"",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled automatically by the support system."
+  },
+  {
+    "id": 100,
+    "customer_message": "Hey @116130 how many times do I have to downvote a band before it stops showing up when my playlist finishes?",
+    "reply": "Thanks for reaching out! We\u2019re not sure what you\u2019re referring to\u2014could you provide more details or clarify your question?",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected; likely a user query not related to Spotify services."
+  },
+  {
+    "id": 101,
+    "customer_message": "@SpotifyCares i've been invited to join premium for family account, but cannot log in. never asks me for my code, just the first info page, then tells me there has been an error ??",
+    "reply": "Hi @SpotifyCares, sorry about the login trouble. Try resetting your password, clearing cache, or uninstalling/reinstalling the app. If it still fails, let us know the exact error message for further help.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard login troubleshooting can be resolved with self\u2011service steps."
+  },
+  {
+    "id": 102,
+    "customer_message": "@115888 I'm tired of your shitty advertisements fuck off",
+    "reply": "We're sorry you feel that way. If you have any questions about Spotify, feel free to let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "User is expressing frustration but not requesting support."
+  },
+  {
+    "id": 103,
+    "customer_message": "Great news: You can now edit your artist bio on Spotify! Learn more here: https://t.co/IpYag6Y4RH https://t.co/u2eZp4OgDv",
+    "reply": "Thanks for sharing the update!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 104,
+    "customer_message": "@115888 when is @118062 reputation album going to be on spotify?!",
+    "reply": "Thanks for reaching out! We\u2019re working on adding @118062\u2019s \"Reputation\" album. We\u2019ll notify you as soon as it\u2019s available. In the meantime, you can enjoy the album\u2019s singles and playlists featuring the artist.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is catalog availability, which can be resolved with a standard response."
+  },
+  {
+    "id": 105,
+    "customer_message": "@SpotifyCares do you have a customer service email address that I can contact you on?",
+    "reply": "Hi! For help, you can reach us through the help center at https://support.spotify.com or reply here with your issue and we\u2019ll assist you.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The user is asking for an email address, which is a standard support response handled automatically."
+  },
+  {
+    "id": 106,
+    "customer_message": "@SpotifyCares im just letting @115888 know, that your music streaming service is second to none. https://t.co/WBUDOun0Wq",
+    "reply": "Thanks for the love! \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support request detected."
+  },
+  {
+    "id": 107,
+    "customer_message": "indonesian reveluv can't wait any longer please release it ASAP @118266 thank you https://t.co/NU8tJtPDC0",
+    "reply": "Hi @118266, thanks for your feedback! We're working on expanding our catalog and hope to bring Indonesian releases like Reveluv soon. Stay tuned for updates!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog update inquiry"
+  },
+  {
+    "id": 108,
+    "customer_message": "@115888 I can't listen to the 2nd Blessings (track 14) from Chance 3 because the song link points to the 1st Blessings (track 5)... plz fix",
+    "reply": "Hi @115888, sorry for the mix\u2011up! We\u2019ve fixed the track link for Blessings (track\u202f14). Try playing it again\u2014let us know if it still doesn\u2019t work!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a known track link bug that can be resolved with an internal fix; no escalation needed."
+  },
+  {
+    "id": 109,
+    "customer_message": "@115888 are there any plans to release a clean music filter? Definitely a @129941 feature that I miss",
+    "reply": "Thanks for the suggestion! We love hearing about new ideas. Our product team reviews all feedback\u2014your clean music filter request has been noted and will be considered for future updates.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled within the support workflow and do not require escalation."
+  },
+  {
+    "id": 110,
+    "customer_message": "Hey @115888 I was trying to listen to Objective to Harvest by Rings of Saturn, but instead their song Harvest played and I got really confused. I have the song Harvest downloaded to my computer, so it may just be getting confused. If you can fix that then thank you!",
+    "reply": "Hi @115888, sorry for the mix\u2011up! Try clearing your local cache or deleting the duplicate 'Harvest' track from your library, then re\u2011sync. That should let you play 'Objective to Harvest' correctly. Let us know if it still doesn\u2019t work!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard playback troubleshooting steps."
+  },
+  {
+    "id": 111,
+    "customer_message": "@115888 why does the mobile app take so long to load / start these days?",
+    "reply": "Hey @115888, sorry the app\u2019s loading slowly! Try clearing cache, updating to the latest version, or reinstalling. If it still lags, let us know and we\u2019ll dig deeper. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 112,
+    "customer_message": "@SpotifyCares Hey, looking to join in a family plan, Ireland. \nCan I pay all in one go rather than monthly??",
+    "reply": "Hey! Yes, you can pay for the whole year at once when you join a Family Plan in Ireland. Just select the annual option during checkout and you\u2019ll get a 10% discount. Enjoy!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard subscription question handled by automated response."
+  },
+  {
+    "id": 113,
+    "customer_message": "@SpotifyCares Why can't I listen to the new @154226?  On my desktop version  it keeps saying \"song unavailable\"",
+    "reply": "Hey there! \ud83c\udfb6 It looks like the track isn\u2019t available in your region yet. We\u2019re working to bring it to you soon. In the meantime, try listening to similar songs or check back later!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a catalog availability problem that can be addressed with a standard response."
+  },
+  {
+    "id": 114,
+    "customer_message": "...okay..... https://t.co/N64J386gxU",
+    "reply": "Thanks for reaching out! If you need help with Spotify, let us know what\u2019s going on and we\u2019ll be happy to assist. \ud83c\udfa7",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Message lacks a clear support request."
+  },
+  {
+    "id": 115,
+    "customer_message": "@115888 I absolutely 100% HATE spotify lol.  How do I look up a playlist I made from another account?  I looked up the name of the playlist, the username, etc.  Nothing is showing up.",
+    "reply": "Hey @115888, to find a playlist you made on another account, log into that account first or use the search bar with the exact playlist name. If it\u2019s still missing, try clearing your cache or reinstalling the app.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 116,
+    "customer_message": "@115888 please make my Christmas miracle come true https://t.co/ZLNy95ohTj",
+    "reply": "Thanks for reaching out! For any Spotify support, feel free to DM us or visit help.spotify.com. Have a great day!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No actionable support request."
+  },
+  {
+    "id": 117,
+    "customer_message": "@SpotifyCares my offline music keeps deleting from my device every few weeks. It gets really annoying every time I have to re download again",
+    "reply": "Hi! It sounds like your offline songs are being removed automatically. Go to Settings > Storage > Offline Music and disable \"Delete unused songs\" or clear the cache. Let us know if that helps!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue can be resolved with a simple settings adjustment."
+  },
+  {
+    "id": 118,
+    "customer_message": "@115888 when will you launch your music services in india this fucking. @115948 always declines my card",
+    "reply": "Hi @115888, we\u2019re working on expanding to India! Updates will be announced soon. For the card decline @115948, please check your card settings or try another payment method. Let us know if you need more help!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Both issues can be addressed with standard support responses."
+  },
+  {
+    "id": 119,
+    "customer_message": "Keep the flow with ad-free music. Premium is just $0.99 for 3 months. https://t.co/gfODSpDTz5",
+    "reply": "Thanks for sharing your thoughts! We\u2019re always looking to improve the ad\u2011free experience. Your feedback helps shape future updates\u2014keep it coming!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "General feedback, no support issue."
+  },
+  {
+    "id": 120,
+    "customer_message": "@SpotifyCares where can I give an idea to improve the app?",
+    "reply": "Thanks for your idea! You can share feedback in the Spotify app under Settings > Help & Support > Send Feedback. We\u2019ll review it and let you know if it\u2019s implemented.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard feedback submission handled by the app's built\u2011in feature."
+  },
+  {
+    "id": 121,
+    "customer_message": "@SpotifyCares Why am I paying premium for the past 3 months yet the service isn't working? I want my money back please.",
+    "reply": "We're sorry to hear the service isn\u2019t working. Please share your account email or phone number so we can investigate and process a refund if needed. Our team will get back to you ASAP.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Refund request requires manual review and account verification."
+  },
+  {
+    "id": 122,
+    "customer_message": "@115888 PLEASE UPDATE SOON  SO YOURE COMPATIBLE WITH IOS 11 THANKS",
+    "reply": "Thanks for reaching out! Our team is continuously working to improve compatibility. We\u2019ll keep you posted on any updates for iOS\u202f11. If you have any other questions, let us know!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue; can be handled with standard response."
+  },
+  {
+    "id": 123,
+    "customer_message": "@SpotifyCares After several months how come now I get another mix? https://t.co/NsJTALD4ee",
+    "reply": "Hey! Thanks for sharing your thoughts. We\u2019re always working to improve your listening experience. Your feedback on the new mix will help us refine future updates. Enjoy the music! \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The user is providing feedback, not requesting support."
+  },
+  {
+    "id": 124,
+    "customer_message": "iPhone 5, version is 10.3.3 and available memory is 14.54 GB https://t.co/GuNcWUr2TZ",
+    "reply": "Thanks for sharing your device details! If you\u2019re experiencing any issues with Spotify, let us know and we\u2019ll help you out.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue identified."
+  },
+  {
+    "id": 125,
+    "customer_message": "@115888 hi there, can you tell me why an album downloaded in my Premium account will not play?",
+    "reply": "Hi @115888, sorry to hear that! Try clearing the app cache or reinstalling. If the album still won\u2019t play, let us know the album name and we\u2019ll investigate further.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 126,
+    "customer_message": "It's taken 10m to find and play a song on @115888 and it's finally playing but constantly skipping. Net is fine, it's just this ****ing app",
+    "reply": "Sorry you\u2019re having trouble with playback. Try clearing the app cache or reinstalling the app. If the issue persists, let us know your device type and app version so we can help further.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard playback issue can be resolved with troubleshooting steps."
+  },
+  {
+    "id": 127,
+    "customer_message": "@SpotifyCares My user name has changed and is now a random combination of letters and numbers that make no sense. How can I fix this?",
+    "reply": "Hi! It sounds like your display name got scrambled. Try updating it in Settings \u2192 Account \u2192 Edit Profile. If that doesn\u2019t work, let us know and we\u2019ll help reset it for you.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue can be resolved with standard account settings steps."
+  },
+  {
+    "id": 128,
+    "customer_message": "Why doesn't @115888 have a Shazam-like plugin to listen, identify &amp; then ADD a song to a playlist... #YoureWelcome #RoyaltiesAccepted \ud83d\ude09",
+    "reply": "Thanks for the suggestion! We\u2019re always looking for ways to improve. I\u2019ve forwarded your idea to our product team and will keep you posted on any updates.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled automatically by forwarding to the product team."
+  },
+  {
+    "id": 129,
+    "customer_message": "@SpotifyCares in 4 months I've had my offline downloads cleared three times for no reason #whatamipayingfor",
+    "reply": "We\u2019re sorry you\u2019re losing your offline songs! Please try clearing the app cache or reinstalling. If the issue persists, let us know your device and we\u2019ll dig deeper. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 130,
+    "customer_message": "@SpotifyCares student deal ended 30 Sep+was chargd 9.99,signed up 4 SD again 2day+chargd 4.99,now says will b chargd 30 Oct=19.99 in 1 mnth?",
+    "reply": "Hi! I\u2019m sorry for the confusion. Let me check the charges on your account and get this sorted out for you. Please DM us your email so we can investigate further.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user is disputing multiple unexpected charges and requires account review."
+  },
+  {
+    "id": 131,
+    "customer_message": "What if I got a job at @115888 and I was one of the guys that made the \u201cThis is:\u201d playlists and I made one that was \u201cThis is: Africa by Toto\u201d which was just 50 different covers of Africa by Toto",
+    "reply": "Thanks for reaching out! It seems your message might not be related to a Spotify support issue. If you need help with Spotify, let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The message does not contain a support request."
+  },
+  {
+    "id": 132,
+    "customer_message": "@115888 Why isn't Pearl Jam's songs  avaliable?",
+    "reply": "Hi @115888, sorry the Pearl Jam tracks aren\u2019t available in your region. We\u2019re working to expand the catalog\u2014check back soon!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog availability issue handled by automated response."
+  },
+  {
+    "id": 133,
+    "customer_message": "@115888 why is that whith the new update,when I search any song &amp; try to touch the 1st option is like I touch the 2nd or 3rd? -Is annoying",
+    "reply": "Hi @115888, sorry for the frustration. It sounds like a UI glitch after the update. Please try clearing the app cache or reinstalling. If the issue persists, let us know and we\u2019ll investigate further!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Common UI bug that can be resolved with app cache clear or reinstall."
+  },
+  {
+    "id": 134,
+    "customer_message": "Shoutout to @SpotifyCares, their help was awesome and fast. \ud83e\udd19 great service guys!",
+    "reply": "Thanks for the shoutout! We're thrilled to hear you had a great experience. If you need anything else, just let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 135,
+    "customer_message": "@115888 please add jazz back in the title and get rid of the nonjazz, i'm trying to ace college and i need your playlist https://t.co/Kl75DBDNx0",
+    "reply": "Thanks for the suggestion! We'll forward your feedback about adding a jazz title and removing the nonjazz track to our product team. We appreciate your support and hope you ace college!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled automatically and forwarded to the product team."
+  },
+  {
+    "id": 136,
+    "customer_message": "We're investigating some payment issues and working hard to get things fixed. We'll provide updates here as we receive them.",
+    "reply": "Thank you for the update! If you need any assistance, feel free to let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No user issue to address."
+  },
+  {
+    "id": 137,
+    "customer_message": "All clear! Everything\u2019s looking good again. Enjoy the tunes.",
+    "reply": "Glad to hear everything\u2019s working! \ud83c\udfb6 If you need anything else, just let us know. Enjoy the music!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue present."
+  },
+  {
+    "id": 138,
+    "customer_message": "@115888 I am being charged by you but I do not have a Spotify account",
+    "reply": "Hi @115888, sorry to hear about the charge. Please verify the email or phone linked to your account. If you don\u2019t have an account, we\u2019ll investigate and refund any unauthorized charge. Let us know if you need help.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports a potential unauthorized charge and claims no account, which requires investigation by the fraud team."
+  },
+  {
+    "id": 139,
+    "customer_message": "Wait so does @115888 work on a Apple Watch??",
+    "reply": "Hi! Thanks for asking. The @115888 app is currently available on iOS, but we\u2019re exploring Apple Watch support. Stay tuned for updates!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue, standard feature inquiry."
+  },
+  {
+    "id": 140,
+    "customer_message": "@SpotifyCares shuffle play isn\u2019t working on mobile. Also my discover weekly is the same as last week. Any thoughts?",
+    "reply": "Hey! Sorry the shuffle isn\u2019t working and your Discover Weekly feels stale. Try clearing the app cache, updating to the latest version, and re\u2011logging in. If it still won\u2019t shuffle, let us know the device model and OS version.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard troubleshooting steps are sufficient for this common playback issue."
+  },
+  {
+    "id": 141,
+    "customer_message": "@115888 @117168 @SpotifyCares is there going to be an X compatibility update??",
+    "reply": "Hey! We\u2019re always working on improving compatibility. While we don\u2019t have a specific X update timeline yet, we\u2019ll keep you posted on new releases. Thanks for the suggestion!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard feature request handled by automated response."
+  },
+  {
+    "id": 142,
+    "customer_message": "@115888 hey I\u2019ve problem on my acc subscribtion process, I\u2019ve paid for 3 month subs but my acc is not upgraded to premium. What should I do? Should I attach a proof of payment?",
+    "reply": "Hi @115888, sorry to hear that! Please upload a screenshot of your payment receipt in the Spotify app or via the link in the help center. Our team will review it and upgrade your account ASAP. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue can be resolved with standard support steps and no higher-level intervention is required."
+  },
+  {
+    "id": 143,
+    "customer_message": "@SpotifyCares Hi do you have an support email I can contact?",
+    "reply": "Hi! You can reach our support team via the Help Center in the app or on our website: https://support.spotify.com. If you prefer email, reply to this tweet and we\u2019ll connect you.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The request is a standard support inquiry that can be resolved with public resources."
+  },
+  {
+    "id": 144,
+    "customer_message": "i was soooooo excited about that new @80437 on @115888 until I realized that it wasn't the same Joshua James. Might need a fix there https://t.co/azIvSS1qeo",
+    "reply": "Hi! We\u2019re sorry the content didn\u2019t meet your expectations. Could you share more details or the episode title so we can investigate and help resolve the issue?",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be handled by internal catalog review without escalation."
+  },
+  {
+    "id": 145,
+    "customer_message": "3 months of Premium is just $0.99. Play music offline wherever you go. https://t.co/n8yYNzA4sa",
+    "reply": "Thanks for sharing! If you need help with your Spotify account or anything else, just let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue present."
+  },
+  {
+    "id": 146,
+    "customer_message": "@115888 i\u2019m about to leave your ass for never EVER having new music when it is released",
+    "reply": "Thanks for reaching out! If you have any questions about Spotify, feel free to let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No actionable support request."
+  },
+  {
+    "id": 147,
+    "customer_message": "@SpotifyCares How long before y\u2019all update the app to fit this iphone X screen? \ud83d\ude1c",
+    "reply": "Hey! Thanks for reaching out. Our dev team is actively working on improving the UI for all devices, including the iPhone\u202fX. We\u2019ll keep you posted\u2014stay tuned for the next update!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard feature\u2011feedback handled in\u2011app."
+  },
+  {
+    "id": 148,
+    "customer_message": "Okay @115888 if I shuffle my playlist don't play me only \"suggested songs,\" I want my songs. Thanks",
+    "reply": "Hey! To keep your playlist in shuffle mode, make sure the \u201cShow songs I\u2019ve never heard\u201d toggle is off. You can find it in the shuffle settings. If it\u2019s still not working, let us know!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with a quick settings tweak."
+  },
+  {
+    "id": 149,
+    "customer_message": "@spotifycares Spotiamb 0.1.2 keeps interrupting my music. It shows as an available device. It keeps showing (cont) https://t.co/bK4QHjDQRD",
+    "reply": "Hey! Sounds frustrating. Try removing the Spotiamb device from your account and restart the app. If it persists, let us know and we\u2019ll dig deeper. \ud83c\udfa7",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Common device removal issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 150,
+    "customer_message": "@115888 Why can\u2019t I upgrade to premium on the app?? I have to go on an internet browser? In 2017??",
+    "reply": "Hey @115888, you can upgrade to Premium directly from the app! Open Settings \u2192 Premium \u2192 Upgrade. If it\u2019s not showing, try updating the app or reinstalling. Let us know if it still doesn\u2019t work!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard upgrade issue resolved with app instructions."
+  },
+  {
+    "id": 151,
+    "customer_message": "So iOS 11 really borks Spotify, right?",
+    "reply": "Hey! It sounds like iOS 11 is causing playback issues. Try updating Spotify to the latest version or reinstalling the app. If that doesn\u2019t help, let us know!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard troubleshooting for iOS 11 playback problems."
+  },
+  {
+    "id": 152,
+    "customer_message": "@115888 pull thru and post yixing's album",
+    "reply": "Sorry, we couldn't understand your request. If you need help with Spotify, please let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The message is unrecognizable and does not match any support category."
+  },
+  {
+    "id": 153,
+    "customer_message": "@SpotifyCares is there an update planned to the spotify mobile app  on W10 mobile? Or streaming from onedrive on UWP apps?",
+    "reply": "Thanks for the suggestion! We\u2019re always looking to improve. Please share more details about the mobile app and OneDrive support so our team can evaluate it.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The request is a feature suggestion, not a support issue."
+  },
+  {
+    "id": 154,
+    "customer_message": "@115888 Hello. Please add more RPG games soundtracks, from authors like Uematsu and Mitsuda. There are too few songs from them",
+    "reply": "Thanks for the suggestion! We\u2019ll forward your request to our music team and keep you posted on any updates. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature request can be handled by the automated system."
+  },
+  {
+    "id": 155,
+    "customer_message": "@115888 noticed on my desktop app that the release date is no longer showing, is this due to a random update?",
+    "reply": "Thanks for reaching out! The release date info is currently hidden in the latest desktop update. We\u2019re working on restoring it\u2014stay tuned for an upcoming fix.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a known UI change, no escalation needed."
+  },
+  {
+    "id": 156,
+    "customer_message": "@SpotifyCares are you guys going to fix the notoriously bad Roku TV app? It is literally unusable.",
+    "reply": "Hey! We\u2019re sorry you\u2019re having trouble with the Roku TV app. Our team is actively working on improvements\u2014please keep the app updated and let us know if the issue persists.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a known app performance problem that can be addressed with standard troubleshooting steps."
+  },
+  {
+    "id": 157,
+    "customer_message": "@SpotifyCares help, I'm unable to follow any artist's account. I'm on ios 10.2.1 and spotify 8.4.24",
+    "reply": "Hi! It looks like the Follow Artist feature isn\u2019t working on your device. Please update iOS to the latest version and reinstall Spotify. If the issue persists, let us know the exact error you see.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard troubleshooting steps should resolve the issue."
+  },
+  {
+    "id": 158,
+    "customer_message": "Oh dear god, @115888 I love you, but the horrendous advert for Christmas playlists featuring god awful Mariah is RUINING my day.",
+    "reply": "Thanks for sharing your thoughts! We\u2019re sorry the ads are bothering you. If you\u2019d like help adjusting your ad preferences, let us know. Otherwise, we appreciate your feedback!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 159,
+    "customer_message": "@115888 I've been having this problem for awhile..it takes longer to load sometimes it doesn't even load. How do I know I'm updated? https://t.co/vTYv3fv13h",
+    "reply": "We\u2019re sorry for the delays! Make sure your app is updated to the latest version and try clearing the cache. If the issue persists, let us know your device and OS so we can help further.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard performance issue can be resolved with app update and cache clear."
+  },
+  {
+    "id": 160,
+    "customer_message": ".@115888 has incorrectly added a song under our artist name. @69619 is not affiliated with us in any way.",
+    "reply": "Thanks for letting us know. Please report the issue in the app by tapping the three dots on the track, selecting \"Report a problem,\" and choosing \"Wrong artist.\" We'll look into it ASAP.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog complaint handled via in-app reporting."
+  },
+  {
+    "id": 161,
+    "customer_message": ".@115888 my app has been down for 3 minutes and that's 4 minutes longer than I want to talk to the people I work with. Let's pull it together, huh guys?",
+    "reply": "Hi @115888, sorry your app\u2019s been down! We\u2019re on it. Please try reinstalling or clearing the cache. If the issue persists, let us know the device and OS version so we can dig deeper. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 162,
+    "customer_message": "A voice as powerful as her story. Hear @154226's new album #MeaningofLife now",
+    "reply": "Thanks for sharing! Enjoy the new album. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 163,
+    "customer_message": "You know how you can take a screenshot in @126 or @123765 and a share button pops up? @115888 should do that &amp; link it to the song",
+    "reply": "Thanks for the suggestion! We\u2019ll forward your idea to our product team so they can explore adding a screenshot share button for songs. Stay tuned for updates!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "This is a general feature request that can be handled automatically."
+  },
+  {
+    "id": 164,
+    "customer_message": "@116130 how quickly do you reply to privet messages?",
+    "reply": "Thanks for reaching out! We aim to reply to private messages within 24 hours. If you need help right now, try our help center or FAQ.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "General inquiry about response time, no issue to resolve."
+  },
+  {
+    "id": 165,
+    "customer_message": "@115888 why is your app the only app that freezes my phone when installed? No other app has ever done it, so why is yours so much worse?",
+    "reply": "Hi @115888, sorry to hear Spotify is freezing your phone. Please try clearing cache, uninstalling/reinstalling, or updating to the latest version. If the issue persists, let us know your device model and OS version so we can help further.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The user reports a technical issue that can be addressed with standard troubleshooting steps."
+  },
+  {
+    "id": 166,
+    "customer_message": "Hey could you put back the song preview function pls, thanks. @115888",
+    "reply": "Thanks for the feedback! We\u2019ve noted your request to bring back song previews. Our product team reviews user suggestions regularly, and we\u2019ll keep you posted on any updates. Enjoy the music!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature requests are handled in\u2011app and do not require escalation."
+  },
+  {
+    "id": 167,
+    "customer_message": "@125633 verify my spotify",
+    "reply": "Hi @125633, we\u2019re sorry you\u2019re having trouble. Please visit https://support.spotify.com/account/verify to verify your account. If you need further help, let us know!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard account verification can be handled automatically."
+  },
+  {
+    "id": 168,
+    "customer_message": "@spotifycares Trying to open app on iphone. Says to login through FB, but get error 404. But then when trying email, says FB isn't connected",
+    "reply": "Hi! Sounds frustrating. Try clearing the app cache or reinstalling the app. If that doesn\u2019t work, switch to a different login method in Settings > Login. Let us know if it still shows the 404 error!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Login issues can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 169,
+    "customer_message": "Hay @115888 why Princess Leia's theme isn't in the best of star wars playlist but you have Jabba Flow and not one but two of the Cantina Band songs. Please add Leia's Theme it's such a great SW/John Williams song.",
+    "reply": "Hi @115888, thanks for reaching out! We\u2019re always working to improve our playlists. I\u2019ve forwarded your feedback about Princess Leia\u2019s Theme to the curation team. We\u2019ll keep you posted on any updates!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Content request can be handled within standard support process."
+  },
+  {
+    "id": 170,
+    "customer_message": "@SpotifyCares ok then for the past two years I haven't been able to use my premium account correctly I know there is someone using my account because half of the stuff on it is not mine. But trying to send an email to Spotify is impossible. Like sending one to Google support null",
+    "reply": "We\u2019re sorry to hear about the unauthorized use of your account. Please secure it immediately by resetting your password and enabling 2\u2011Factor Authentication. If you can\u2019t do this, let us know and we\u2019ll help you further.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "User reports potential account compromise and inability to contact support, requiring urgent security assistance."
+  },
+  {
+    "id": 171,
+    "customer_message": "@115888 Help! My account was hacked and all my playlists are gone!!",
+    "reply": "Hi @115888, we\u2019re sorry to hear about the security issue. Please go to the Spotify login page, click \u2018Forgot password?\u2019 and follow the steps to secure your account. If you need further help, let us know!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "User reports account hacking, requires security investigation."
+  },
+  {
+    "id": 172,
+    "customer_message": "make @115888 available in Saudi Arabia",
+    "reply": "Thanks for reaching out! We\u2019re working to bring @115888 to more regions, including Saudi Arabia. Stay tuned for updates on our release schedule.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue is a catalog availability request, handled by automated response."
+  },
+  {
+    "id": 173,
+    "customer_message": "@SpotifyCares I\u2019ve restarted my phone, internet, deleted and reinstalled... still nothing! I need my chillout playlist for bed \ud83d\ude2d https://t.co/w7NznuaBOe",
+    "reply": "Hi! Sorry you\u2019re still having trouble. Let\u2019s try clearing your cache: Settings\u202f> Storage\u202f> Clear cache. If that doesn\u2019t help, try logging out and back in. Let us know if the chill\u2011out playlist loads!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard playback troubleshooting can be resolved without escalation."
+  },
+  {
+    "id": 174,
+    "customer_message": "Help @SpotifyCares! Premium isn't showing up in my @115888 app so can't connect to Alexa, but definitely showing when I log in online",
+    "reply": "Hi! It sounds like your Premium status isn\u2019t syncing to the app. Try logging out and back in, clearing the app cache, or reinstalling. If that doesn\u2019t work, let us know your device model and app version so we can help further.",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 175,
+    "customer_message": "Hey @115888 can you replenish and update the My Time Capsule playlist at least once a month? Need more nostalgia!!!!!! \ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb",
+    "reply": "Hi! Thanks for the suggestion. We\u2019ll pass your request to our product team to consider adding a monthly update for the My Time Capsule playlist. Stay tuned!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard feature request handled via internal feedback process."
+  },
+  {
+    "id": 176,
+    "customer_message": "Security is important, @spotifycares. We'd like it if you supported two factor auth. https://t.co/MuoXdlreEq #SupportTwoFactorAuth",
+    "reply": "Thanks for the suggestion! We\u2019re always looking to improve security. Two\u2011factor auth is on our roadmap\u2014stay tuned!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No immediate support needed, just a feature request."
+  },
+  {
+    "id": 177,
+    "customer_message": "@SpotifyCares Haven't logged out,but restarting works just for a while. After an hour or so, it does the same.",
+    "reply": "Hey there! It sounds like your session is timing out. Try clearing the app cache or updating to the latest version. If the issue persists, let us know and we\u2019ll dig deeper!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Common session timeout issue can be resolved with app cache clear or update. No escalation needed."
+  },
+  {
+    "id": 178,
+    "customer_message": "@115888 what\u2019s the word on Apple Watch and Siri support? Is @115858 preventing this  or are you slow to the game?",
+    "reply": "Hey! We\u2019re working on expanding Apple Watch and Siri support. No delays from @115858\u2014just a few updates in the pipeline. Stay tuned for the next release!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue, just a feature inquiry."
+  },
+  {
+    "id": 179,
+    "customer_message": ".@115888 How do I go from 21 savage to THIS???https://t.co/4jtXjGbwsQ",
+    "reply": "It looks like you\u2019re trying to switch from 21 Savage to another track or playlist. Could you let us know the exact song or playlist you want to access? We\u2019ll help you find it!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue is a standard content navigation request that can be resolved with a quick reply."
+  },
+  {
+    "id": 180,
+    "customer_message": "I just wanna know why I can pick and choose ANY song I want on @115888 on the computer but not my app.. \ud83d\ude12 #SoAnnoying #NoImNotAPremiumUserAnymoreButStill",
+    "reply": "We\u2019re sorry for the frustration! Desktop and mobile have different playback limits for non\u2011Premium users. If you upgrade or use a Premium account, you\u2019ll have full song\u2011selection on all devices.",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard policy issue, no escalation needed."
+  },
+  {
+    "id": 181,
+    "customer_message": "@SpotifyCares hi um I paid for a premium acc but my account says that I'm still a free user. Help pls \ud83d\ude2d",
+    "reply": "Hey there! Let\u2019s get your Premium activated ASAP. Can you confirm the email linked to your account? Once we verify, we\u2019ll switch your plan on the spot. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "This is a standard account status issue that can be resolved with verification steps."
+  },
+  {
+    "id": 182,
+    "customer_message": "@115888 I'm having trouble using a nus card for discount :( please help",
+    "reply": "Hi @115888, we\u2019re sorry you\u2019re having trouble with your NUS card discount. Please check that the card is active and entered correctly. If the issue persists, let us know the card details (no personal info) and we\u2019ll help further.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 183,
+    "customer_message": "w... why? @115888 https://t.co/I0b6ZTblwu",
+    "reply": "Sorry we\u2019re not sure how to help with that. If you have a question about your Spotify account or service, just let us know!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The message does not contain a clear support request."
+  },
+  {
+    "id": 184,
+    "customer_message": "Good one @115888, email to let me know I can get 3 months for $15, so I instantly open it up, all excited just to be met with a screen saying I don't qualify, even though you sent me the email\nWay to bring my hopes up, then smash them face first into the ground \ud83d\ude2d @SpotifyCares?",
+    "reply": "Hi @115888, sorry to hear about the promo issue. Let\u2019s get this sorted\u2014can you DM us your promo code and the email you received? We\u2019ll verify and help you claim the offer. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 185,
+    "customer_message": "@117153 My dad changed banks and recalled a payment for my account and now my account is disabled. How can i get that account back?",
+    "reply": "We\u2019re sorry to hear about the issue. Please contact our support team at https://support.spotify.com/contact-spotify/ so we can help reinstate your account.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user\u2019s account has been disabled due to a payment recall, requiring manual review by the support team."
+  },
+  {
+    "id": 186,
+    "customer_message": "Fuck @115888 . you have the worst customer service",
+    "reply": "We're sorry you feel that way. If you'd like to discuss your experience further, please DM us or visit our help center.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The user is expressing frustration without a specific support request."
+  },
+  {
+    "id": 187,
+    "customer_message": "Tried Premium yet? Your favorite music, ad-free, on-demand and offline. Get the first 30 days free. https://t.co/ycTMDXiQUg",
+    "reply": "Thanks for reaching out! If you have any questions about Spotify, feel free to let us know.",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support needed for spam content."
+  },
+  {
+    "id": 188,
+    "customer_message": "@115888 Please bring Spotify to #BlackBerry10",
+    "reply": "Thanks for the suggestion! We'll pass your feedback on to the team. In the meantime, you can still enjoy Spotify on BlackBerry 10 via the web player or the app on supported devices. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue, just a feature request."
+  },
+  {
+    "id": 189,
+    "customer_message": "@SpotifyCares why do I keep getting logged out of my account multiple times?",
+    "reply": "Hi! It sounds like you're experiencing unexpected logouts. Please try clearing your app cache or reinstalling the app. If the issue persists, let us know your device type and we\u2019ll dig deeper.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 190,
+    "customer_message": "@SpotifyCares I cancelled my subscription as it wouldn\u2019t work , when I emailed for help you replied in Spanish i am in UK.... you are still taking my money without permission !! #nothappy",
+    "reply": "Hi @user, sorry for the hassle. We\u2019ll investigate the unauthorized charge and refund any overpayment. Please DM us your email address so we can resolve this ASAP.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports unauthorized charges and language barrier; requires manual review."
+  },
+  {
+    "id": 191,
+    "customer_message": "@115888 @SpotifyCares when u will be available in Ukraine?! #Playmusic by google is too buggy and slow!!! #spotifyukraine",
+    "reply": "Hey @115888, we\u2019re working hard to bring Spotify to Ukraine! Stay tuned for updates. In the meantime, try our web player or the Spotify app on your device for the best experience. \ud83c\udfb6",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue, standard catalog availability request."
+  },
+  {
+    "id": 192,
+    "customer_message": "thanks for getting back! you guys are awesome. \nI am using IOS, wifi, tried a few networks, but the \"LIVE\" text that is typically next to our new release is gone. maybe it's a UI change and it's still actually live? https://t.co/KAxnImCI1Q",
+    "reply": "Hey! Thanks for the love! \ud83d\ude4c The LIVE badge can sometimes be delayed or hidden during UI updates. Could you let us know the track title and release date? We\u2019ll check if it\u2019s live or a temporary glitch.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 193,
+    "customer_message": "@115888 Can we get an Apple Watch\uf8ff App or a better way to control songs.",
+    "reply": "Thanks for the suggestion! We\u2019re always looking to improve how you control music. We\u2019ll forward your idea to the product team and keep you updated on any new app or feature releases. Enjoy listening!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Feature request can be handled by internal routing without escalation."
+  },
+  {
+    "id": 194,
+    "customer_message": "@SpotifyCares hey, I sent a DM explaining a massive sign-in issue I'm having :)",
+    "reply": "Hi! We\u2019re sorry you\u2019re having trouble signing in. Please let us know the exact error message or any steps you\u2019ve tried, and we\u2019ll help you get back in quickly!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Sign\u2011in problems often require account\u2011specific troubleshooting."
+  },
+  {
+    "id": 195,
+    "customer_message": "@117168 please add more joan jett",
+    "reply": "Thanks for the suggestion! We'll pass your request to our team. In the meantime, you can add Joan Jett to your playlist or search for her music. Let us know if there's anything else we can help with!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No urgent issue, standard feature request."
+  },
+  {
+    "id": 196,
+    "customer_message": "@SpotifyCares there is one result when you search for \"Egypt\"",
+    "reply": "Hi! We\u2019re sorry you\u2019re having trouble finding Egypt in search. Could you let us know which app and device you\u2019re using? We\u2019ll investigate and get back to you ASAP!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 197,
+    "customer_message": "@SpotifyCares \nWhat does mean?  How do I get rid of it?\nHow can I communicate with you with being twit or face?  Do you not have a direct communication? https://t.co/G6g8u9mk0O",
+    "reply": "Hi! We\u2019re here to help. For direct support, visit help.spotify.com or use the in\u2011app Help Center. Let us know what issue you\u2019re experiencing and we\u2019ll guide you!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The user is seeking general support contact info, which can be handled automatically."
+  },
+  {
+    "id": 198,
+    "customer_message": "@SpotifyCares Trying to create an account, but when I submit, I just get a spinner. Tried incognito and other browsers, emails and devices.",
+    "reply": "Sorry for the trouble! It sounds like a sign\u2011up glitch. Try clearing your cache or using a different device. If it still happens, let us know your email so we can investigate further. Thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 199,
+    "customer_message": "@SpotifyCares - I paid for Premium Tuesday. Worked until today, then it reverted to Free. NONE of the online tips help.",
+    "reply": "Hi @User, sorry to hear your Premium access was lost. Please check your payment status in the app and let us know if the charge shows. If it\u2019s still pending, we\u2019ll investigate and restore your plan ASAP!",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Escalate",
+    "escalate_reason": "User reports subscription reverted after payment, requiring account review."
+  },
+  {
+    "id": 200,
+    "customer_message": "@125633 guys my artist page is locking me out and i can't get in!! Also releases aren't showing up!!!!",
+    "reply": "Hi @125633, sorry to hear about the issue. Please try clearing your browser cache or using a different device to log in. If the problem persists, let us know the exact error message so we can investigate further.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports artist page lockout and missing releases, which likely requires backend investigation."
+  },
+  {
+    "id": 201,
+    "customer_message": "@SpotifyCares Spotify is ignoring my email address. Says there isn\u2019t an account with that email but there is!",
+    "reply": "Hi! Sorry you\u2019re having trouble logging in. Please double\u2011check the email you used to sign up and try resetting your password. If the issue persists, let us know your username and we\u2019ll investigate further.",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard account access issue can be resolved with password reset steps."
+  },
+  {
+    "id": 202,
+    "customer_message": "@SpotifyCares my biz credit card gets charged every month but I\ufe0f don\u2019t know my account so can\u2019t cancel. It\u2019s been like 3 years. See my problem?!? How do I\ufe0f cancel???",
+    "reply": "Hi! We\u2019re sorry to hear about the charges. Please DM us your account email or phone number so we can verify your account and help you cancel the subscription. Thanks for reaching out!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue can be resolved with account verification via DM, no higher-level escalation needed."
+  },
+  {
+    "id": 203,
+    "customer_message": "Hi @115888, I really, really don't want Spotify Connect on my account. Please can I turn it off? You can have my first-born son as payment?",
+    "reply": "Hey! You can disable Spotify Connect by going to Settings > Playback and turning off the Connect toggle. If you need help, let us know!",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with a simple settings change."
+  },
+  {
+    "id": 204,
+    "customer_message": "@115888 @spotifycares Still no explicit filter. I wonder if anyone wants one? https://t.co/wgblOcd0WY  Do you really care? #f**kthekids",
+    "reply": "Thanks for the suggestion! We\u2019re always looking to improve the listening experience. Your feedback will be forwarded to the product team.",
+    "grounding_used": [],
+    "intent": "Feature Request/Product Feedback",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue, just a feature request."
+  },
+  {
+    "id": 205,
+    "customer_message": "I'm tired of listening to music in spotify, can I stop the subscription spotify ? @SpotifyCares",
+    "reply": "Hi! We\u2019re sorry to hear you\u2019re thinking of canceling. You can pause or cancel your subscription in the app under Settings > Subscription. Need help with the process?",
+    "grounding_used": [],
+    "intent": "Subscription & Plan Management",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard account settings instructions."
+  },
+  {
+    "id": 206,
+    "customer_message": "@115888 how do I change my contact email address to be able to change the payment details with access to my old email account ?",
+    "reply": "Hi @115888, you can update your email in Settings > Account > Email. If you no longer have access to your old email, use the recovery link to verify your identity and change your email. Need more help?",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard account email update can be resolved with provided steps."
+  },
+  {
+    "id": 207,
+    "customer_message": "@SpotifyCares Is service down in Toronto area?  Neither iOS nor the web player are working.",
+    "reply": "Hi @user, sorry to hear the service isn\u2019t working in Toronto. Please check our status page at https://status.spotify.com for any outages. If the issue persists, let us know the exact error message and we\u2019ll help further!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with status check and standard troubleshooting."
+  },
+  {
+    "id": 208,
+    "customer_message": "@115888 Hi ! I'm having a question, where is the file where are all the song i'm downloading ?",
+    "reply": "Hi! If you\u2019re on the Spotify app, downloaded songs are stored in the app\u2019s internal storage and aren\u2019t directly accessible via a file path. On mobile you can\u2019t move them to a different folder. Let us know if you need help with offline playback!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "The issue is straightforward and can be answered without escalation."
+  },
+  {
+    "id": 209,
+    "customer_message": "@1126 Hi. How come for the longest time I can't link my Shazam to my @116130 account? You used to be able to do that before. Now it only shows @115948 ?? \ud83e\udd14",
+    "reply": "Hey there! We\u2019re sorry you\u2019re having trouble linking Shazam. Try unlinking any existing Shazam accounts in Settings > Connected Accounts, then reconnect. If that doesn\u2019t work, let us know the exact error you see.",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 210,
+    "customer_message": "@SpotifyCares hi, can you please reply to my dm because i don\u2019t understand what\u2019s happening with my account",
+    "reply": "Hi! We\u2019re here to help. Please check your inbox for our DM and let us know what\u2019s unclear about your account. If you\u2019re still having trouble, we\u2019ll connect you with a specialist right away!",
+    "grounding_used": [],
+    "intent": "Account Access Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "Account access issues often require direct assistance from the support team."
+  },
+  {
+    "id": 211,
+    "customer_message": "Why isn\u2019t Friday Night Lights not on @115888 \ud83e\uddd0....",
+    "reply": "Hi! It looks like \"Friday Night Lights\" isn\u2019t available in your region. Availability can change based on licensing. We\u2019re working to bring more shows to you\u2014thanks for your patience!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog availability response"
+  },
+  {
+    "id": 212,
+    "customer_message": "Shoutout to @125633 for the awesome insights you guys provide! This is an essential part of my tool kit as an emerging independent artist!\n\n#legends #spotify #independent https://t.co/ZhLSmjhm1i",
+    "reply": "Thanks for the shoutout! \ud83c\udfb6 Glad our insights help your music journey. Keep creating amazing tracks!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 213,
+    "customer_message": "@SpotifyCares",
+    "reply": "Thanks for reaching out! If you need help, feel free to let us know what\u2019s on your mind. \ud83c\udfa7",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support request detected."
+  },
+  {
+    "id": 214,
+    "customer_message": "I\u2019d love it if Spotify didn\u2019t delete all my downloaded music @115888",
+    "reply": "We\u2019re sorry you\u2019re losing downloaded songs. Let\u2019s get this fixed\u2014please open the app, go to Settings > Storage, and tap \u2018Restore Downloads.\u2019 If the issue persists, let us know!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with in-app steps."
+  },
+  {
+    "id": 215,
+    "customer_message": "Something\u2019s not quite right, and we\u2019re looking into it. Thanks for your reports!",
+    "reply": "Thanks for reaching out! If you have any questions or need assistance, just let us know. Enjoy your music!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 216,
+    "customer_message": "@115888 looks amazing now that it\u2019s iPhone X supported. Great job.",
+    "reply": "Thanks for the feedback! We're glad you love the new iPhone X support. Enjoy listening!",
+    "grounding_used": [],
+    "intent": "Non-Support/Noise",
+    "escalate": "Auto-handle",
+    "escalate_reason": "No support issue detected."
+  },
+  {
+    "id": 217,
+    "customer_message": "@SpotifyCares I was charged for Spotify premium but I still don't have Spotify premium https://t.co/PazsANSe78",
+    "reply": "Hi @user, sorry to hear about the charge. Please check your payment history and let us know the date of the charge. We\u2019ll investigate and get this resolved ASAP.",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Escalate",
+    "escalate_reason": "The user reports a billing discrepancy that likely requires account review."
+  },
+  {
+    "id": 218,
+    "customer_message": "@115888 Why does the setting-&gt;advanced settings-&gt;Startup and Window behaviour not save my selection\n\nI have selected NO to open at logon, but EVERY time Spotify starts and  I DO NOT WANT THAT!!",
+    "reply": "Hi @115888, sorry for the hassle. It sounds like a bug with the startup setting. Please try clearing the cache or reinstalling Spotify. If that doesn\u2019t work, let us know and we\u2019ll dig deeper. Thanks!",
+    "grounding_used": [],
+    "intent": "Technical/Playback Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Issue can be resolved with standard troubleshooting steps."
+  },
+  {
+    "id": 219,
+    "customer_message": "Can @115888 explain why theres hella cumbia in my weekly discovery",
+    "reply": "Hey! We\u2019re sorry the cumbia tracks aren\u2019t what you expected in your Discovery Weekly. We\u2019ll look into the mix and improve the recommendations. Thanks for the feedback!",
+    "grounding_used": [],
+    "intent": "Content Availability/Catalog Complaint",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard catalog feedback handled by automated response."
+  },
+  {
+    "id": 220,
+    "customer_message": "@SpotifyCares I signed up to premium with my mobile number but thought it didn't go through so signed up with card. How do I resolve this?",
+    "reply": "Hey there! We can help you confirm your Premium subscription. Please check the email we sent for confirmation or visit your account page. If it\u2019s still pending, let us know your email and we\u2019ll sort it out!",
+    "grounding_used": [],
+    "intent": "Billing & Payment Issue",
+    "escalate": "Auto-handle",
+    "escalate_reason": "Standard account confirmation can be resolved with automated steps."
+  }
+]
